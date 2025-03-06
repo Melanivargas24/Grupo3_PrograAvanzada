@@ -1,0 +1,8 @@
+﻿-- Crear la tabla para almacenar las partidas
+CREATE TABLE GameHistory (
+    Id INT IDENTITY(1,1) PRIMARY KEY,  
+    Username NVARCHAR(100),            
+    Score INT,                          
+    Duration INT,                       
+    GameDate DATETIME DEFAULT GETDATE() 
+);
