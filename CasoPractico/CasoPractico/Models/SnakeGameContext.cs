@@ -15,16 +15,15 @@ public partial class SnakeGameContext : DbContext
         : base(options)
     {
     }
-    public virtual DbSet<User> Users { get; set; }
 
+    public virtual DbSet<User> Users { get; set; }
+    public virtual DbSet<GameHistory> GameHistories { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    => optionsBuilder.UseSqlServer("Server=DESKTOP-UJNOQQC;Database=SnakeGame;Trusted_Connection=True;TrustServerCertificate=True;");
+    => optionsBuilder.UseSqlServer("Server=MSI;Database=SnakeGame;Trusted_Connection=True;TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        base.OnModelCreating(modelBuilder);
-
         modelBuilder.Entity<User>(entity =>
         {
             entity.HasKey(u => u.Id);
@@ -37,7 +36,24 @@ public partial class SnakeGameContext : DbContext
             entity.Property(u => u.Imagen)
                 .IsRequired();
             entity.Property(u => u.Id)
-                .ValueGeneratedOnAdd(); 
+                .ValueGeneratedOnAdd();
         });
+
+        modelBuilder.Entity<GameHistory>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK_GameHistory");
+
+            entity.ToTable("GameHistory");
+
+            entity.Property(e => e.GameDate)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime");
+            entity.Property(e => e.Username)
+                .HasMaxLength(100);
+        });
+
+        OnModelCreatingPartial(modelBuilder);
     }
+
+    partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }

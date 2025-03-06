@@ -4,7 +4,6 @@ using CasoPractico.Models;
 using System.ComponentModel.DataAnnotations;
 using System.IO;
 using System.Threading.Tasks;
-using CasoPractico.Migrations;
 
 namespace CasoPractico.Pages
 {

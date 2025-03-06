@@ -1,0 +1,29 @@
+﻿@page
+@model Snake.Pages.GameHistoryModel
+@{
+    ViewData["Title"] = "High Scores";
+}
+
+<h2>🏆 Puntajes Mas Altos 🏆</h2>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Score</th>
+            <th>Game Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var game in Model.GameHistories)
+        {
+            <tr>
+                <td>@game.Username</td>
+                <td>@game.Score</td>
+                <td>@game.GameDate?.ToString("yyyy-MM-dd HH:mm")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/">Back to Game</a>
