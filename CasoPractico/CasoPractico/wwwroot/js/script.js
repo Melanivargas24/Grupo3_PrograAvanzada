@@ -46,6 +46,12 @@ function saveScore(username, score) {
 }
 
 // Loop del juego
+// Función para redirigir a la vista de Game Over con el puntaje final
+function gameOver() {
+    window.location.href = `/GameOver/${score}`;
+}
+
+// Loop del juego (modificado)
 function loop() {
     requestAnimationFrame(loop);
 
@@ -59,12 +65,7 @@ function loop() {
 
     // Si la serpiente choca, termina el juego
     if (snake.x < 0 || snake.x >= canvas.width || snake.y < 0 || snake.y >= canvas.height) {
-        let username = ("player");
-        if (username) {
-            saveScore(username, score);
-        } else {
-            document.location.reload();
-        }
+        gameOver();
         return;
     }
 
@@ -90,12 +91,7 @@ function loop() {
 
         for (var i = index + 1; i < snake.cells.length; i++) {
             if (cell.x === snake.cells[i].x && cell.y === snake.cells[i].y) {
-                let username = ("player");
-                if (username) {
-                    saveScore(username, score);
-                } else {
-                    document.location.reload();
-                }
+                gameOver();
                 return;
             }
         }
@@ -105,6 +101,7 @@ function loop() {
     context.font = '20px Arial';
     context.fillText('Score: ' + score, 10, 20);
 }
+
 
 // Escuchar eventos de teclado
 document.addEventListener('keydown', function (e) {

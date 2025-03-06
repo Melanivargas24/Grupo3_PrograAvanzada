@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Snake.Pages
+namespace CasoPractico.Pages
 {
     public class GameHistoryModel : PageModel
     {

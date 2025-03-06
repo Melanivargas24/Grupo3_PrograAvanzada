@@ -1,0 +1,13 @@
+﻿@page "{score:int}"
+@model CasoPractico.Pages.GameOverModel
+@{
+    ViewData["Title"] = "Game Over";
+}
+
+<h2>Game Over</h2>
+
+<p>Your final score: <strong>@Model.Score</strong></p>
+
+<a href="/">
+    <button>Play Again</button>
+</a>
