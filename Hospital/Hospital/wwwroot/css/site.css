@@ -1,0 +1,119 @@
+html {
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url('https://www.ccss.sa.cr/arc/prensa/2209-aac91.jpeg');
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    min-height: 100px;
+}
+
+
+.navbar-second {
+    min-height: 35px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 0;
+    padding: 0;
+    border-top: none;
+    gap: 40px;
+}
+
+    .navbar-second .navbar-nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 35px;
+    }
+
+
+
+.navbar + .navbar-second {
+    margin-top: 0 !important;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    color: black !important;
+    background-color: white !important;
+}
+
+.dropdown-menu {
+    background-color: black !important; 
+}
+
+
+.container-index {
+    background-color: white;
+    margin-left: 350px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 450px;
+    margin-top: 150px;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+
+    .container-index h2 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .container-index p {
+        font-size: 14px;
+        color: #555;
+        margin-bottom: 15px;
+    }
+
+.button {
+    display: inline-block;
+    background-color: #FFD966;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+    .button:hover {
+        background-color: #e6c853;
+    }
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+    color: var(--bs-secondary-color);
+    text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+    text-align: start;
+}
