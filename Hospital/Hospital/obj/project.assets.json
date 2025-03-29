@@ -4716,11 +4716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Melani\\Documents\\Progra Avanzada\\Hospital\\Hospital\\Hospital.csproj",
+      "projectUniqueName": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
       "projectName": "Hospital",
-      "projectPath": "D:\\Melani\\Documents\\Progra Avanzada\\Hospital\\Hospital\\Hospital.csproj",
+      "projectPath": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
       "packagesPath": "C:\\Users\\Melani\\.nuget\\packages\\",
-      "outputPath": "D:\\Melani\\Documents\\Progra Avanzada\\Hospital\\Hospital\\obj\\",
+      "outputPath": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

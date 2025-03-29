@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dvZxJ+RQ68Q=",
+  "dgSpecHash": "chE1EiDqbS0=",
   "success": true,
-  "projectFilePath": "D:\\Melani\\Documents\\Progra Avanzada\\Hospital\\Hospital\\Hospital.csproj",
+  "projectFilePath": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Melani\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Melani\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
