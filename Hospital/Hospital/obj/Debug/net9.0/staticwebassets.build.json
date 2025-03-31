@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LVbnysFqvISzaTTmdtY8dVv0E8YJDKNfiJK1nfUYDmM=",
+  "Hash": "aTQpe9cN1b3qVMaGapGYy0B+iBB3MioH0iKk/Dl/s6U=",
   "Source": "Hospital",
   "BasePath": "_content/Hospital",
   "Mode": "Default",
@@ -437,12 +437,12 @@
       "OriginalItemSpec": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-4yfmx54j71.gz",
+      "Identity": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-t1tcydgidh.gz",
       "SourceId": "Hospital",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Hospital",
-      "RelativePath": "css/site#[.{fingerprint=4yfmx54j71}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=t1tcydgidh}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "stnx29q046",
-      "Integrity": "4Jye1N49zUlw+oUv5zuBjhMFephO9imJftchLRHJZic=",
+      "Fingerprint": "xst91mc03s",
+      "Integrity": "34ed1br89sPpAX+sC+CELBgWEfWwPfyT1MhNyN8t+Pc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css"
@@ -500,12 +500,12 @@
       "OriginalItemSpec": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-61n19gt1b8.gz",
+      "Identity": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-2461e0os6k.gz",
       "SourceId": "Hospital",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Hospital",
-      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "RelativePath": "favicon#[.{fingerprint=2461e0os6k}]?.ico.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -514,8 +514,8 @@
       "RelatedAsset": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lir1p715ud",
-      "Integrity": "jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8=",
+      "Fingerprint": "yz5p8v0rar",
+      "Integrity": "YnFQAJEVAMiT7hB7ALFTXy5xuqIXeXJ+qYfiDCVxQUU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\favicon.ico"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4yfmx54j71",
-      "Integrity": "xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M=",
+      "Fingerprint": "t1tcydgidh",
+      "Integrity": "76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1438,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "2461e0os6k",
+      "Integrity": "MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.4yfmx54j71.css",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-4yfmx54j71.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-t1tcydgidh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000928505107"
+          "Quality": "0.000722543353"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1076"
+          "Value": "1383"
         },
         {
           "Name": "ETag",
-          "Value": "\"4Jye1N49zUlw+oUv5zuBjhMFephO9imJftchLRHJZic=\""
+          "Value": "\"34ed1br89sPpAX+sC+CELBgWEfWwPfyT1MhNyN8t+Pc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:03:46 GMT"
+          "Value": "Mon, 31 Mar 2025 04:08:10 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2772,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M=\""
+          "Value": "W/\"76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "4yfmx54j71"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M="
+          "Value": "sha256-76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo="
         }
       ]
     },
     {
-      "Route": "css/site.4yfmx54j71.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3932"
+          "Value": "5548"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2801,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M=\""
+          "Value": "\"76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:03:46 GMT"
+          "Value": "Mon, 31 Mar 2025 04:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-t1tcydgidh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1383"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"34ed1br89sPpAX+sC+CELBgWEfWwPfyT1MhNyN8t+Pc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 04:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-34ed1br89sPpAX+sC+CELBgWEfWwPfyT1MhNyN8t+Pc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.t1tcydgidh.css",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-t1tcydgidh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000722543353"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1383"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"34ed1br89sPpAX+sC+CELBgWEfWwPfyT1MhNyN8t+Pc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 04:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t1tcydgidh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.t1tcydgidh.css",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 04:08:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4yfmx54j71"
+          "Value": "t1tcydgidh"
         },
         {
           "Name": "label",
@@ -2831,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M="
+          "Value": "sha256-76si1BgBocqzm4N8dSVu9OzQEZrayTSHY/Da2ZwinWo="
         }
       ]
     },
     {
-      "Route": "css/site.4yfmx54j71.css.gz",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-4yfmx54j71.gz",
+      "Route": "css/site.t1tcydgidh.css.gz",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-t1tcydgidh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1076"
+          "Value": "1383"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4Jye1N49zUlw+oUv5zuBjhMFephO9imJftchLRHJZic=\""
+          "Value": "\"34ed1br89sPpAX+sC+CELBgWEfWwPfyT1MhNyN8t+Pc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:03:46 GMT"
+          "Value": "Mon, 31 Mar 2025 04:08:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4yfmx54j71"
+          "Value": "t1tcydgidh"
         },
         {
           "Name": "label",
@@ -2884,18 +3021,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-4Jye1N49zUlw+oUv5zuBjhMFephO9imJftchLRHJZic="
+          "Value": "sha256-34ed1br89sPpAX+sC+CELBgWEfWwPfyT1MhNyN8t+Pc="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-4yfmx54j71.gz",
+      "Route": "favicon.2461e0os6k.ico",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-2461e0os6k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000928505107"
+          "Quality": "0.000190294957"
         }
       ],
       "ResponseHeaders": [
@@ -2905,152 +3042,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1076"
+          "Value": "5254"
         },
         {
           "Name": "ETag",
-          "Value": "\"4Jye1N49zUlw+oUv5zuBjhMFephO9imJftchLRHJZic=\""
+          "Value": "\"YnFQAJEVAMiT7hB7ALFTXy5xuqIXeXJ+qYfiDCVxQUU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:03:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3932"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:03:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xBAXxIXj37noNzaTxrkwFZs6Jv9CSkACx6TxN+fpf2M="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\cnq3z5wrpv-4yfmx54j71.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1076"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4Jye1N49zUlw+oUv5zuBjhMFephO9imJftchLRHJZic=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 07:03:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4Jye1N49zUlw+oUv5zuBjhMFephO9imJftchLRHJZic="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-61n19gt1b8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000411015208"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2432"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 21:34:41 GMT"
+          "Value": "Sun, 30 Mar 2025 23:24:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3070,13 +3070,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "2461e0os6k"
         },
         {
           "Name": "label",
@@ -3084,12 +3084,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
+      "Route": "favicon.2461e0os6k.ico",
       "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3099,7 +3099,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -3107,11 +3107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 21:34:41 GMT"
+          "Value": "Sun, 30 Mar 2025 23:24:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3121,7 +3121,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "2461e0os6k"
         },
         {
           "Name": "label",
@@ -3129,13 +3129,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico.gz",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-61n19gt1b8.gz",
+      "Route": "favicon.2461e0os6k.ico.gz",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-2461e0os6k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3144,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2432"
+          "Value": "5254"
         },
         {
           "Name": "Content-Type",
@@ -3152,11 +3152,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8=\""
+          "Value": "\"YnFQAJEVAMiT7hB7ALFTXy5xuqIXeXJ+qYfiDCVxQUU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 21:34:41 GMT"
+          "Value": "Sun, 30 Mar 2025 23:24:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3174,7 +3174,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "2461e0os6k"
         },
         {
           "Name": "label",
@@ -3182,18 +3182,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+          "Value": "sha256-YnFQAJEVAMiT7hB7ALFTXy5xuqIXeXJ+qYfiDCVxQUU="
         }
       ]
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-61n19gt1b8.gz",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-2461e0os6k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000411015208"
+          "Quality": "0.000190294957"
         }
       ],
       "ResponseHeaders": [
@@ -3203,15 +3203,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2432"
+          "Value": "5254"
         },
         {
           "Name": "ETag",
-          "Value": "\"jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8=\""
+          "Value": "\"YnFQAJEVAMiT7hB7ALFTXy5xuqIXeXJ+qYfiDCVxQUU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 21:34:41 GMT"
+          "Value": "Sun, 30 Mar 2025 23:24:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3231,13 +3231,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso="
         }
       ]
     },
@@ -3252,7 +3252,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -3260,11 +3260,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 21:34:41 GMT"
+          "Value": "Sun, 30 Mar 2025 23:24:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3274,13 +3274,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-MiNWvQwb105UDWrYWzGn4ZY+RV7vRmg5toP6y3BhWso="
         }
       ]
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-61n19gt1b8.gz",
+      "AssetFile": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\Debug\\net9.0\\compressed\\dg4in5t4t2-2461e0os6k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3289,7 +3289,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2432"
+          "Value": "5254"
         },
         {
           "Name": "Content-Type",
@@ -3297,11 +3297,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8=\""
+          "Value": "\"YnFQAJEVAMiT7hB7ALFTXy5xuqIXeXJ+qYfiDCVxQUU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Mar 2025 21:34:41 GMT"
+          "Value": "Sun, 30 Mar 2025 23:24:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3319,7 +3319,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+          "Value": "sha256-YnFQAJEVAMiT7hB7ALFTXy5xuqIXeXJ+qYfiDCVxQUU="
         }
       ]
     },
