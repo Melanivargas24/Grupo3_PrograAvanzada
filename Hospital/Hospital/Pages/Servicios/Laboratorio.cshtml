@@ -1,0 +1,35 @@
+﻿@page
+@model Hospital.Pages.Servicios.LaboratorioModel
+@{
+}
+
+<div class="container-cita mt-5">
+    <section class="info">
+        <h2>¿Por qué elegir nuestro laboratorio clínico?</h2>
+        <p>Ofrecemos análisis clínicos precisos y confiables con tecnología de vanguardia y personal altamente capacitado.</p>
+
+        <div class="benefits">
+            <div class="card">
+                <h3>Resultados Confiables</h3>
+                <p>Realizamos pruebas con los más altos estándares de calidad para garantizar diagnósticos precisos.</p>
+            </div>
+            <div class="card">
+                <h3>Equipos de Alta Tecnología</h3>
+                <p>Contamos con tecnología avanzada para análisis rápidos y efectivos.</p>
+            </div>
+            <div class="card">
+                <h3>Entrega Rápida de Resultados</h3>
+                <p>Obten tus resultados en el menor tiempo posible con nuestro servicio eficiente.</p>
+            </div>
+        </div>
+
+        <a class="btn-servicio" asp-area="" asp-page="/Contacto">Contáctenos</a>
+    </section>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

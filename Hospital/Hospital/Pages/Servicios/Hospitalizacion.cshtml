@@ -1,0 +1,34 @@
+﻿@page
+@model Hospital.Pages.Servicios.HospitalizacionModel
+@{
+}
+
+<div class="container-cita mt-5">
+    <section class="info">
+        <h2>¿Por qué elegir nuestro servicio?</h2>
+        <p>Ofrecemos un servicio de hospitalización con habitaciones cómodas, atención 24/7 y tecnología avanzada.</p>
+
+        <div class="benefits">
+            <div class="card">
+                <h3>Habitaciones Equipadas</h3>
+                <p>Contamos con habitaciones privadas y compartidas con todas las comodidades necesarias.</p>
+            </div>
+            <div class="card">
+                <h3>Atención Médica 24/7</h3>
+                <p>Nuestro equipo de especialistas está disponible las 24 horas del día para atender cualquier necesidad.</p>
+            </div>
+            <div class="card">
+                <h3>Tecnología Avanzada</h3>
+                <p>Disponemos de equipos médicos de última generación para garantizar diagnósticos precisos.</p>
+            </div>
+        </div>
+
+        <a class="btn-servicio" asp-area="" asp-page="/Contacto">Contáctenos</a>
+    </section>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

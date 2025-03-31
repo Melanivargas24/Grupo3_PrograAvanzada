@@ -14,9 +14,13 @@ namespace Hospital.Models
 
         public int IdMedico { get; set; }
 
-        public DateOnly Fecha { get; set; }
+        [Required]
+        [DataType(DataType.Date)]
+        public DateTime Fecha { get; set; }
 
-        public TimeOnly Hora { get; set; }
+        [Required]
+        [DataType(DataType.Time)]
+        public TimeSpan Hora { get; set; }
 
         public int IdEstado { get; set; }
 

@@ -9,42 +9,51 @@
     <h1>Agendar cita</h1>
     <hr />
     <div class="row justify-content-center">
-        <div class="col-md-5">
+        <div class="col-md-10">
             <form method="post">
-                <div class="mb-3">
-                    <label class="form-label">Seleccione el área de su cita</label>
-                    <select class="form-select" asp-for="Cita.IdEspecialidad" asp-items="ViewBag.IdEspecialidad">
-                        <option value="">...</option>
-                    </select>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label class="form-label">Seleccione el área de su cita</label>
+                            <select class="form-select" asp-for="Cita.IdEspecialidad" asp-items="ViewBag.IdEspecialidad">
+                                <option value="">...</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Seleccione su médico de preferencia</label>
+                            <select class="form-select" asp-for="Cita.IdMedico" asp-items="ViewBag.IdMedico">
+                                <option value="">...</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">ID Paciente</label>
+                            <input asp-for="Cita.IdPaciente" class="form-control" />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Estado</label>
+                            <select class="form-select" asp-for="Cita.IdEstado" asp-items="ViewBag.IdEstado"></select>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100 btn-custom mb-3">
+                            Confirmar
+                        </button>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label class="form-label">Seleccione la fecha de su cita</label>
+                            <input type="date" class="form-control text-center" asp-for="Cita.Fecha">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Seleccione la hora de su cita</label>
+                            <input type="time" class="form-control text-center" asp-for="Cita.Hora">
+                        </div>
+         
+                    </div>
                 </div>
-                <div class="mb-3">
-                    <label class="form-label">Seleccione su médico de preferencia</label>
-                    <select class="form-select" asp-for="Cita.IdMedico" asp-items="ViewBag.IdMedico">
-                        <option value="">...</option>
-                    </select>
-                </div>
-                <div class="mb-3">
-                    <label class="form-label">ID Paciente</label>
-                    <input asp-for="Cita.IdPaciente" class="form-control" />
-                </div>
-                <div class="mb-3">
-                    <label class="form-label">Estado</label>
-                    <select class="form-select" asp-for="Cita.IdEstado" asp-items="ViewBag.IdEstado"></select>
-                </div>
-
-                <button type="submit" class="btn btn-primary w-100 btn-custom">
-                    Confirmar
-                </button>
             </form>
-        </div>
-        <div class="col-md-5 calendar-container">
-            <label class="form-label">Seleccione la fecha de su cita</label>
-            <input type="date" class="form-control text-center" asp-for="Cita.Fecha">
-            <label class="form-label mt-3">Seleccione la hora de su cita</label>
-            <input type="time" class="form-control text-center" asp-for="Cita.Hora">
         </div>
     </div>
 </div>
+
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

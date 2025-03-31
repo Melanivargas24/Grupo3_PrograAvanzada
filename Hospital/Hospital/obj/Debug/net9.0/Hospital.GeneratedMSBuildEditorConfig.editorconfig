@@ -48,6 +48,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Emergencias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXEVtZXJnZW5jaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Farmacia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXEZhcm1hY2lhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Hospitalizacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXEhvc3BpdGFsaXphY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Laboratorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXExhYm9yYXRvcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Odontologia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXE9kb250b2xvZ2lhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

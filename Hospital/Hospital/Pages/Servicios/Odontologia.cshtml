@@ -1,0 +1,34 @@
+﻿@page
+@model Hospital.Pages.Servicios.OdontologiaModel
+@{
+}
+
+<div class="container-cita mt-5">
+    <section class="info">
+        <h2>¿Por qué elegir nuestro servicio de odontología?</h2>
+        <p>Brindamos atención odontológica de calidad con tecnología avanzada y un equipo de especialistas altamente capacitados.</p>
+
+        <div class="benefits">
+            <div class="card">
+                <h3>Especialistas en Todas las Áreas</h3>
+                <p>Contamos con odontólogos especializados en ortodoncia, implantología, endodoncia y más.</p>
+            </div>
+            <div class="card">
+                <h3>Equipos de Última Tecnología</h3>
+                <p>Utilizamos herramientas modernas para diagnósticos precisos y tratamientos efectivos.</p>
+            </div>
+            <div class="card">
+                <h3>Atención Personalizada</h3>
+                <p>Cada paciente recibe un tratamiento adaptado a sus necesidades para garantizar su bienestar bucal.</p>
+            </div>
+        </div>
+
+        <a class="btn-servicio" asp-area="" asp-page="/Contacto">Contáctenos</a>
+    </section>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
