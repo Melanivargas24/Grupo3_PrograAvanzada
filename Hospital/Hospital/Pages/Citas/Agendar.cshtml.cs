@@ -34,13 +34,17 @@ namespace Hospital.Pages.Citas
         {
             if (ModelState.IsValid)
             {
+           
                 return Page();
             }
 
+            Cita.IdEstado = 1;
             _context.Citas.Add(Cita);
             await _context.SaveChangesAsync();
 
-            return RedirectToPage("/Index");
+            TempData["CitaAgendada"] = true;
+
+            return RedirectToPage("/Citas/Agendar");
         }
     }
 }

@@ -1,33 +1,38 @@
 ﻿@page
-@model Hospital.Pages.Citas.AgendarModel
+@model Hospital.Pages.Citas.ReagendarModel
 
-        @{
-        ViewData["Title"] = "Agendar";
-        }
-
+@{
+    ViewData["Title"] = "Reagendar";
+}
 <div class="container-cita mt-5">
-    <h1>Agendar cita</h1>
+    <h1>Reagendar</h1>
     <hr />
     <div class="row justify-content-center">
         <div class="col-md-10">
             <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="Cita.IdCita" />
                 <div class="row">
                     <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Cita.IdPaciente" class="form-label">ID Paciente</label>
+                            <input asp-for="Cita.IdPaciente" class="form-control" />
+                            <span asp-validation-for="Cita.IdPaciente" class="text-danger"></span>
+                        </div>
                         <div class="mb-3">
                             <label class="form-label">Seleccione el área de su cita</label>
                             <select class="form-select" asp-for="Cita.IdEspecialidad" asp-items="ViewBag.IdEspecialidad">
                                 <option value="">...</option>
                             </select>
+                            <span asp-validation-for="Cita.IdEspecialidad" class="text-danger"></span>
                         </div>
+
                         <div class="mb-3">
                             <label class="form-label">Seleccione su médico de preferencia</label>
                             <select class="form-select" asp-for="Cita.IdMedico" asp-items="ViewBag.IdMedico">
                                 <option value="">...</option>
                             </select>
-                        </div>
-                        <div class="mb-3">
-                            <label class="form-label">ID Paciente</label>
-                            <input asp-for="Cita.IdPaciente" class="form-control" />
+                            <span asp-validation-for="Cita.IdMedico" class="text-danger"></span>
                         </div>
                         <button type="submit" class="btn btn-primary w-100 btn-custom mb-3">
                             Confirmar
@@ -37,10 +42,12 @@
                         <div class="mb-3">
                             <label class="form-label">Seleccione la fecha de su cita</label>
                             <input type="date" class="form-control text-center" asp-for="Cita.Fecha">
+                            <span asp-validation-for="Cita.Fecha" class="text-danger"></span>
                         </div>
                         <div class="mb-3">
                             <label class="form-label">Seleccione la hora de su cita</label>
                             <input type="time" class="form-control text-center" asp-for="Cita.Hora">
+                            <span asp-validation-for="Cita.Hora" class="text-danger"></span>
                         </div>
                     </div>
                 </div>
@@ -49,36 +56,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalCitaAgendada" tabindex="-1" aria-labelledby="modalCitaAgendadaLabel" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content custom-modal">
-            <div class="modal-header">
-                <h5 class="modal-title" id="modalCitaAgendadaLabel">Cita Agendada</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
-            </div>
-            <div class="modal-body text-center">
-                <p>¡Tu cita ha sido agendada con éxito!</p>
-                <i class="fas fa-calendar-check modal-icon"></i>
-            </div>
-            <div class="modal-footer d-flex justify-content-center">
-                <button type="button" class="btn btn-custom px-4" data-bs-dismiss="modal">Aceptar</button>
-            </div>
-        </div>
-    </div>
-</div>
-
 
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-
-    <script>
-            document.addEventListener("DOMContentLoaded", function () {
-            var citaAgendada = "@TempData["CitaAgendada"]";
-            if (citaAgendada.trim() === "True") {
-                var modal = new bootstrap.Modal(document.getElementById("modalCitaAgendada"));
-                modal.show();
-            }
-        });
-    </script>
 }

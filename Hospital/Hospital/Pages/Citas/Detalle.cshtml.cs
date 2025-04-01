@@ -27,5 +27,23 @@ namespace Hospital.Pages.Citas
                 .Include(c => c.Estado)
                 .Include(c => c.Medico).ToListAsync();
         }
+
+
+        public async Task<IActionResult> OnPostAsync(int idCita)
+        {
+            var cita = await _context.Citas.FirstOrDefaultAsync(c => c.IdCita == idCita);
+
+            if (cita == null)
+            {
+                return NotFound();
+            }
+
+            cita.IdEstado = 2;
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToPage("/Citas/Detalle");
+        }
+
     }
 }

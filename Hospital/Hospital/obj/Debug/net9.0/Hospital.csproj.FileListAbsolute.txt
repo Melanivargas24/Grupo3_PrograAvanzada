@@ -570,4 +570,4 @@ C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsof
 C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\dg4in5t4t2-2461e0os6k.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\cnq3z5wrpv-od6dp7sd4y.gz
+C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\cnq3z5wrpv-1hrs1w89ub.gz

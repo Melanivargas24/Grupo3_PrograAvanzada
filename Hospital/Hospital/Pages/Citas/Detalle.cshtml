@@ -5,8 +5,8 @@
     ViewData["Title"] = "Detalle";
 }
 <div class="container-cita mt-5">
-<h1>Consultar citas</h1>
-<hr/>
+    <h1>Consultar citas</h1>
+    <hr/>
 
     <table class="table">
         <thead>
@@ -16,6 +16,7 @@
                 <th>@Html.DisplayNameFor(model => model.Cita[0].Hora)</th>
                 <th>@Html.DisplayNameFor(model => model.Cita[0].Especialidad)</th>
                 <th>@Html.DisplayNameFor(model => model.Cita[0].Medico)</th>
+                <th>@Html.DisplayNameFor(model => model.Cita[0].Estado)</th>
                 <th>Acciones</th>
             </tr>
         </thead>
@@ -28,9 +29,16 @@
                     <td>@Html.DisplayFor(modelItem => item.Hora)</td>
                     <td>@Html.DisplayFor(modelItem => item.Especialidad.Nombre)</td>
                     <td>@Html.DisplayFor(modelItem => item.Medico.IdMedico)</td>
-                    <td>
-                        <a asp-page="./Edit" asp-route-id="@item.IdCita" class="btn btn-cita btn-sm">Reagendar</a>
-                        <a asp-page="./Delete" asp-route-id="@item.IdCita" class="btn btn-danger btn-sm">Cancelar</a>
+                    <td>@Html.DisplayFor(modelItem => item.Estado.Nombre)</td>
+                    <td class="d-flex justify-content-center">
+                        <a asp-page="/Citas/Reagendar" asp-route-id="@item.IdCita" class="btn btn-cita btn-sm me-2">Reagendar</a>
+                        @if (item.Estado.IdEstado != 2)
+                        {
+                            <form method="POST" asp-page-handler="Cancelar">
+                                <input type="hidden" name="idCita" value="@item.IdCita"/>
+                                <button type="submit" class="btn btn-danger btn-sm">Cancelar</button>
+                            </form>
+                        }
                     </td>
                 </tr>
             }
