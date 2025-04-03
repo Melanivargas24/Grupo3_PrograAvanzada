@@ -1,0 +1,48 @@
+﻿@page
+@model Hospital.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Registro de Usuario";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-header bg-success text-white text-center">
+                    <h3>Registro de Usuario</h3>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="mb-3">
+                            <label class="form-label">Nombre</label>
+                            <input type="text" class="form-control" asp-for="NewUser.Nombre" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Apellido</label>
+                            <input type="text" class="form-control" asp-for="NewUser.Apellido" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Correo Electrónico</label>
+                            <input type="email" class="form-control" asp-for="NewUser.Email" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Contraseña</label>
+                            <input type="password" class="form-control" asp-for="NewUser.Clave" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Rol</label>
+                            <select class="form-select" asp-for="NewUser.Role">
+                                <option value="Empleado">Empleado</option>
+                                <option value="Administrador">Administrador</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-success w-100">Registrarse</button>
+                    </form>
+                </div>
+                <div class="card-footer text-center">
+                    <small>¿Ya tienes cuenta? <a asp-page="/Login">Inicia sesión aquí</a></small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

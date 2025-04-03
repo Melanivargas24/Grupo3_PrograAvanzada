@@ -11,7 +11,7 @@
 
 </head>
 <body>
-    <header >
+    <header>
         <nav class="navbar navbar-expand-sm navbar-light bg-white mb-0 p-0">
             <div class="container">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Logo-CCSS-CostaRica-negro.png" alt="Logo CCSS" width="90" height="90" />
@@ -45,16 +45,42 @@
                                 <li><a class="dropdown-item text-white" asp-area="" asp-page="/Servicios/Odontologia">Odontología</a></li>
                             </ul>
                         </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link text-white px-3" asp-area="" asp-page="/Citas/Detalle">Citas</a>
-                        </li>
                         <li class="nav-item">
                             <a class="nav-link text-white px-3" asp-area="" asp-page="/Contacto">Contacto</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white px-3" asp-area="" asp-page="/Index">Soporte</a>
                         </li>
+
+                        <li class="nav-item">
+                            @if (User.IsInRole("Administrador"))
+                            {
+                                <a class="nav-link text-white px-3" asp-area="" asp-page="/Admin/Index">Administración</a>
+                            }
+                        </li>
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+
+
+                            <li class="nav-item">
+                                <a class="nav-link text-white px-3" asp-area="" asp-page="/Citas/Detalle">Citas</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link text-white px-3" asp-area="" asp-page="/Logout">Cerrar sesión</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <span class="nav-link text-white px-3">Hola, @User.Identity.Name</span>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white px-3" asp-area="" asp-page="/Login">Iniciar sesión</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>

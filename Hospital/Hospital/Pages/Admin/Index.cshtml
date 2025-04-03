@@ -1,0 +1,31 @@
+﻿@page
+@model Hospital.Pages.AdminModel
+@{
+    ViewData["Title"] = "Panel de Administración";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Administración de Usuarios</h2>
+
+    <table class="table table-bordered mt-4">
+        <thead class="table-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Email</th>
+                <th>Rol</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model.Users)
+            {
+                <tr>
+                    <td>@user.Nombre</td>
+                    <td>@user.Apellido</td>
+                    <td>@user.Email</td>
+                    <td>@user.Role</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
