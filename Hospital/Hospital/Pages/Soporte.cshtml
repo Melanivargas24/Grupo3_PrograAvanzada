@@ -1,0 +1,40 @@
+﻿@page
+@model Hospital.Pages.SoporteModel
+
+@{
+    ViewData["Title"] = "Soporte";
+}
+
+<div class="container">
+    <h1>Soporte</h1>
+    <hr />
+
+    <form method="post">
+        <div class="mb-3">
+            <label for="Nombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" id="Nombre" name="Nombre" required />
+        </div>
+        <div class="mb-3">
+            <label for="Email" class="form-label">Correo Electrónico</label>
+            <input type="email" class="form-control" id="Email" name="Email" required />
+        </div>
+        <div class="mb-3">
+            <label for="Mensaje" class="form-label">Mensaje</label>
+            <textarea class="form-control" id="Mensaje" name="Mensaje" rows="5" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Enviar Mensaje</button>
+    </form>
+
+    @if (Model.IsSuccess)
+    {
+        <div class="alert alert-success mt-4">
+            Tu mensaje ha sido enviado correctamente. Nos pondremos en contacto contigo pronto.
+        </div>
+    }
+    else if (Model.HasError)
+    {
+        <div class="alert alert-danger mt-4">
+            Hubo un error al enviar tu mensaje. Por favor, intenta nuevamente.
+        </div>
+    }
+</div>
