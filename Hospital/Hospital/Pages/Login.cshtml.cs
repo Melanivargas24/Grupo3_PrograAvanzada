@@ -49,7 +49,7 @@ namespace Hospital.Pages
             var principal = new ClaimsPrincipal(claimsIdentity);
 
             await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
-            return RedirectToPage("/Profile/Index");
+            return RedirectToPage("/Index");
         }
     }
 }

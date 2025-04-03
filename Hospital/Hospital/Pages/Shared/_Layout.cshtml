@@ -20,9 +20,32 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between" id="navbar1">
+                    <ul class="navbar-nav ms-auto">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <span class="nav-link">Hola, @User.Identity.Name</span>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-page="/Logout">Cerrar sesión</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-page="/Login">Iniciar sesión</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-page="/Register">Registrarse</a>
+                            </li>
+                        }
+                    </ul>
                 </div>
             </div>
         </nav>
+
         <nav class="navbar-second">
             <div class="container">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar2">
@@ -45,6 +68,12 @@
                                 <li><a class="dropdown-item text-white" asp-area="" asp-page="/Servicios/Odontologia">Odontología</a></li>
                             </ul>
                         </li>
+                         @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-page="/Citas/Detalle">Citas</a>
+                            </li>
+                        }
                         <li class="nav-item">
                             <a class="nav-link text-white px-3" asp-area="" asp-page="/Contacto">Contacto</a>
                         </li>
@@ -59,28 +88,7 @@
                             }
                         </li>
 
-                        @if (User.Identity.IsAuthenticated)
-                        {
-
-
-                            <li class="nav-item">
-                                <a class="nav-link text-white px-3" asp-area="" asp-page="/Citas/Detalle">Citas</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link text-white px-3" asp-area="" asp-page="/Logout">Cerrar sesión</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <span class="nav-link text-white px-3">Hola, @User.Identity.Name</span>
-                            </li>
-                        }
-                        else
-                        {
-                            <li class="nav-item">
-                                <a class="nav-link text-white px-3" asp-area="" asp-page="/Login">Iniciar sesión</a>
-                            </li>
-                        }
+                      
                     </ul>
                 </div>
             </div>

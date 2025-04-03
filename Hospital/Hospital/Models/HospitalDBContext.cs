@@ -21,7 +21,7 @@ namespace Hospital.Models
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-   => optionsBuilder.UseSqlServer("Server=MSI;Database=Hospital;Trusted_Connection=True;TrustServerCertificate=True;");
+   => optionsBuilder.UseSqlServer("Server=DESKTOP-UJNOQQC;Database=Hospital;Trusted_Connection=True;TrustServerCertificate=True;");
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
