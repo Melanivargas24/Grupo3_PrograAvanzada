@@ -1,0 +1,44 @@
+@page
+@model Hospital.Pages.Expedientes.CrearModel
+@{
+    ViewData["Title"] = "Nuevo Expediente";
+}
+
+<div class="container mt-5">
+    <div class="bg-white p-4 rounded shadow col-md-6 mx-auto">
+        <h2 class="text-center mb-4 fw-bold">Nuevo Expediente</h2>
+
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Expediente.PacienteId" class="form-label">Paciente</label>
+                <select asp-for="Expediente.PacienteId" class="form-control" asp-items="Model.PacientesSelectList">
+                    <option value="">-- Seleccione un paciente --</option>
+                </select>
+                <span asp-validation-for="Expediente.PacienteId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Expediente.Diagnostico" class="form-label">Diagnóstico</label>
+                <input asp-for="Expediente.Diagnostico" class="form-control" />
+                <span asp-validation-for="Expediente.Diagnostico" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Expediente.Tratamientos" class="form-label">Tratamiento</label>
+                <input asp-for="Expediente.Tratamientos" class="form-control" />
+                <span asp-validation-for="Expediente.Tratamientos" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Expediente.Medicamentos" class="form-label">Medicamentos</label>
+                <input asp-for="Expediente.Medicamentos" class="form-control" />
+                <span asp-validation-for="Expediente.Medicamentos" class="text-danger"></span>
+            </div>
+
+            <div class="text-center mt-4">
+                <button type="submit" class="btn btn-primary me-2">Guardar</button>
+                <a asp-page="./Index" class="btn btn-secondary">Volver</a>
+            </div>
+        </form>
+    </div>
+</div>

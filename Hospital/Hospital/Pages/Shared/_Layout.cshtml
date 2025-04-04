@@ -81,6 +81,13 @@
                             <a class="nav-link text-white px-3" asp-area="" asp-page="/Soporte">Soporte</a>
                         </li>
 
+                        @if (User.IsInRole("Empleado"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-white px-3" asp-page="/Expedientes/Index">Expedientes</a>
+                                </li>
+                            }
+
                         <li class="nav-item">
                             @if (User.IsInRole("Administrador"))
                             {

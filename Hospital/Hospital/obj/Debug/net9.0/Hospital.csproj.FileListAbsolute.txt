@@ -1,575 +1,918 @@
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\appsettings.Development.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\appsettings.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.staticwebassets.runtime.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.staticwebassets.endpoints.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.exe
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.deps.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.runtimeconfig.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.pdb
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Azure.Core.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Azure.Identity.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Humanizer.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\Mono.TextTemplating.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.ClientModel.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.CodeDom.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.Convention.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.Hosting.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.Runtime.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.TypedParts.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Drawing.Common.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Formats.Asn1.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Memory.Data.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Runtime.Caching.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Security.Permissions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Text.Json.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\System.Windows.Extensions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.csproj.AssemblyReference.cache
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.AssemblyInfoInputs.cache
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.AssemblyInfo.cs
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.csproj.CoreCompileInputs.cache
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.MvcApplicationPartsAssemblyInfo.cache
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.RazorAssemblyInfo.cache
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.RazorAssemblyInfo.cs
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\scopedcss\bundle\Hospital.styles.css
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\scopedcss\projectbundle\Hospital.bundle.scp.css
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\dg4in5t4t2-61n19gt1b8.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\obav48o8cp-xtxxf3hu2r.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\0tx69uh6mx-bqjiyaj88i.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\sixrs3zrix-c2jlpeoesf.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\448sj3kuy1-erw9l3u2r3.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\7u7cihtnsi-aexeepp0ev.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\oclg9yi4l9-d7shbmvgxk.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\5j85d8t3ut-ausgxo2sd3.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\lszdi8epk8-k8d9w2qqmf.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\8vefr4e9hm-cosvhxvwiu.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\pq6nlyi7p0-ub07r2b239.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\hig3axjfmw-fvhpjtyr6v.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\ugb5ui5p5b-b7pk76d08c.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\of5kgzb0a7-fsbi9cje9m.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\gw354mgxwt-rzd6atqjts.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\kv8svraaqd-ee0r1s7dh0.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\h8p5244dn9-dxx9fxp4il.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\vypybwm1kc-jd9uben2k1.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\l5fsy26dps-khv3u5hwcm.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\inket3q72x-r4e9w2rdcm.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\1mhntamn7e-lcd1t2u6c8.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\c8t5m2lha8-c2oey78nd0.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\4bjzd9d5lw-tdbxkamptv.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\axzrcuzsud-j5mq2jizvt.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\saidedbmuz-06098lyss8.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\xgjxnh7exf-nvvlpmu67g.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\p3li8svcar-s35ty4nyc5.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\hffln1otyn-pj5nd1wqec.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\jjs8mntc1d-46ein0sx1k.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\utdijng67s-v0zj4ognzu.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\xtebhmixhg-37tfw0ft22.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\xgb04hx23g-hrwsygsryq.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\oznaobwl4n-pk9g2wxc8p.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\oerxw56oh1-ft3s53vfgj.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\gz74sukt6r-6cfz1n2cew.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\dco2blprv9-6pdc2jztkx.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\nq0b7cdbfc-493y06b0oq.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\9i05kky3rn-iovd86k7lj.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\r10iy6i6xj-vr1egmr9el.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\39ekbw73iw-kbrnm935zg.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\787rxb6hqj-jj8uyg4cgr.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\scppop9e1r-y7v9cxd14o.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\nzsuja7b4b-notf2xhcfb.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\wywgupjmaa-h1s4sie4z3.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\45h6lnyzw5-63fj8s7r0e.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\b2roh301eo-0j3bgjxly4.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\7j426dqm6s-47otxtyo56.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\77xgh9otep-4v8eqarkd7.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\cpk569zfc9-356vix0kms.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\6hus16hvbk-83jwlth58m.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\662falemx1-mrlpezrjn3.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\rlh3qpk9y1-lzl9nlhx6b.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\e7ku5vbqbe-ag7o75518u.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\thw5mojyl9-x0q3zqp4vz.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\z9vitkxbde-0i3buxo5is.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\6rg3l00f8n-o1o13a6vjx.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\7qbtdxg1fd-ttgo8qnofa.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\dpwvi0cwsf-2z0ns9nrw6.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\xd3u34yi1a-muycvpuwrr.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\jgwqv83ko7-87fc7y1x7t.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\h19r1hdei9-mlv21k5csn.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\r1ijb1qn5q-7mgtxg7v9y.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\r06s4730wx-7mgtxg7v9y.gz
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.build.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.development.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.build.Hospital.props
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Hospital.props
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Hospital.props
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.pack.json
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.csproj.Up2Date
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\refint\Hospital.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.pdb
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.genruntimeconfig.cache
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\ref\Hospital.dll
-D:\Melani\Documents\Progra Avanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\cnq3z5wrpv-b4uj850ss6.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\appsettings.Development.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\appsettings.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.staticwebassets.runtime.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.staticwebassets.endpoints.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.exe
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.deps.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.runtimeconfig.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Hospital.pdb
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Azure.Core.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Azure.Identity.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Humanizer.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Mono.TextTemplating.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.ClientModel.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.CodeDom.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.Convention.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.Hosting.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.Runtime.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Composition.TypedParts.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Formats.Asn1.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Memory.Data.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Runtime.Caching.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Text.Json.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.csproj.AssemblyReference.cache
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.AssemblyInfoInputs.cache
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.AssemblyInfo.cs
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.csproj.CoreCompileInputs.cache
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.MvcApplicationPartsAssemblyInfo.cache
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.RazorAssemblyInfo.cache
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.RazorAssemblyInfo.cs
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.sourcelink.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\scopedcss\bundle\Hospital.styles.css
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\scopedcss\projectbundle\Hospital.bundle.scp.css
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\obav48o8cp-xtxxf3hu2r.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\0tx69uh6mx-bqjiyaj88i.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\sixrs3zrix-c2jlpeoesf.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\448sj3kuy1-erw9l3u2r3.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\7u7cihtnsi-aexeepp0ev.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\oclg9yi4l9-d7shbmvgxk.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\5j85d8t3ut-ausgxo2sd3.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\lszdi8epk8-k8d9w2qqmf.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\8vefr4e9hm-cosvhxvwiu.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\pq6nlyi7p0-ub07r2b239.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\hig3axjfmw-fvhpjtyr6v.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\ugb5ui5p5b-b7pk76d08c.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\of5kgzb0a7-fsbi9cje9m.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\gw354mgxwt-rzd6atqjts.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\kv8svraaqd-ee0r1s7dh0.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\h8p5244dn9-dxx9fxp4il.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\vypybwm1kc-jd9uben2k1.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\l5fsy26dps-khv3u5hwcm.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\inket3q72x-r4e9w2rdcm.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\1mhntamn7e-lcd1t2u6c8.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\c8t5m2lha8-c2oey78nd0.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\4bjzd9d5lw-tdbxkamptv.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\axzrcuzsud-j5mq2jizvt.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\saidedbmuz-06098lyss8.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\xgjxnh7exf-nvvlpmu67g.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\p3li8svcar-s35ty4nyc5.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\hffln1otyn-pj5nd1wqec.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\jjs8mntc1d-46ein0sx1k.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\utdijng67s-v0zj4ognzu.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\xtebhmixhg-37tfw0ft22.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\xgb04hx23g-hrwsygsryq.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\oznaobwl4n-pk9g2wxc8p.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\oerxw56oh1-ft3s53vfgj.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\gz74sukt6r-6cfz1n2cew.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\dco2blprv9-6pdc2jztkx.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\nq0b7cdbfc-493y06b0oq.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\9i05kky3rn-iovd86k7lj.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\r10iy6i6xj-vr1egmr9el.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\39ekbw73iw-kbrnm935zg.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\787rxb6hqj-jj8uyg4cgr.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\scppop9e1r-y7v9cxd14o.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\nzsuja7b4b-notf2xhcfb.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\wywgupjmaa-h1s4sie4z3.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\45h6lnyzw5-63fj8s7r0e.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\b2roh301eo-0j3bgjxly4.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\7j426dqm6s-47otxtyo56.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\77xgh9otep-4v8eqarkd7.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\cpk569zfc9-356vix0kms.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\6hus16hvbk-83jwlth58m.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\662falemx1-mrlpezrjn3.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\rlh3qpk9y1-lzl9nlhx6b.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\e7ku5vbqbe-ag7o75518u.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\thw5mojyl9-x0q3zqp4vz.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\z9vitkxbde-0i3buxo5is.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\6rg3l00f8n-o1o13a6vjx.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\7qbtdxg1fd-ttgo8qnofa.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\dpwvi0cwsf-2z0ns9nrw6.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\xd3u34yi1a-muycvpuwrr.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\jgwqv83ko7-87fc7y1x7t.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\h19r1hdei9-mlv21k5csn.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\r1ijb1qn5q-7mgtxg7v9y.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\r06s4730wx-7mgtxg7v9y.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.build.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.development.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.build.Hospital.props
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Hospital.props
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Hospital.props
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.csproj.Up2Date
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\refint\Hospital.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.pdb
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\Hospital.genruntimeconfig.cache
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\ref\Hospital.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Build.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.Build.Framework.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.Common.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.Configuration.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.Frameworks.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.LibraryModel.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.Packaging.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.ProjectModel.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.Protocol.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\NuGet.Versioning.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\af\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ar\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\az\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\bg\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\da\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\el\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fa\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\he\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\hr\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\hu\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\hy\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\id\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\is\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ku\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\lv\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\mt\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\nb\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\nl\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ro\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\sk\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\sl\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\sr\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\sv\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\uk\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\vi\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\dg4in5t4t2-2461e0os6k.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\obj\Debug\net9.0\compressed\cnq3z5wrpv-l4ogkrlkiu.gz
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
-C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/appsettings.Development.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/appsettings.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.staticwebassets.runtime.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.staticwebassets.endpoints.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.exe
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.deps.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.runtimeconfig.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.pdb
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Azure.Core.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Azure.Identity.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Humanizer.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/Mono.TextTemplating.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.ClientModel.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.CodeDom.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Convention.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Hosting.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Runtime.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.TypedParts.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Drawing.Common.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Formats.Asn1.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Memory.Data.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Runtime.Caching.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Security.Permissions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Text.Json.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/System.Windows.Extensions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.AssemblyReference.cache
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.AssemblyInfoInputs.cache
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.AssemblyInfo.cs
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.CoreCompileInputs.cache
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.MvcApplicationPartsAssemblyInfo.cache
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.RazorAssemblyInfo.cache
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.RazorAssemblyInfo.cs
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/bundle/Hospital.styles.css
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/projectbundle/Hospital.bundle.scp.css
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dg4in5t4t2-61n19gt1b8.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/obav48o8cp-xtxxf3hu2r.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/0tx69uh6mx-bqjiyaj88i.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/sixrs3zrix-c2jlpeoesf.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/448sj3kuy1-erw9l3u2r3.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7u7cihtnsi-aexeepp0ev.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oclg9yi4l9-d7shbmvgxk.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/5j85d8t3ut-ausgxo2sd3.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/lszdi8epk8-k8d9w2qqmf.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/8vefr4e9hm-cosvhxvwiu.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/pq6nlyi7p0-ub07r2b239.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/hig3axjfmw-fvhpjtyr6v.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/ugb5ui5p5b-b7pk76d08c.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/of5kgzb0a7-fsbi9cje9m.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/gw354mgxwt-rzd6atqjts.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/kv8svraaqd-ee0r1s7dh0.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/h8p5244dn9-dxx9fxp4il.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/vypybwm1kc-jd9uben2k1.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/l5fsy26dps-khv3u5hwcm.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/inket3q72x-r4e9w2rdcm.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/1mhntamn7e-lcd1t2u6c8.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/c8t5m2lha8-c2oey78nd0.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/4bjzd9d5lw-tdbxkamptv.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/axzrcuzsud-j5mq2jizvt.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/saidedbmuz-06098lyss8.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xgjxnh7exf-nvvlpmu67g.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/p3li8svcar-s35ty4nyc5.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/hffln1otyn-pj5nd1wqec.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/jjs8mntc1d-46ein0sx1k.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/utdijng67s-v0zj4ognzu.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xtebhmixhg-37tfw0ft22.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xgb04hx23g-hrwsygsryq.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oznaobwl4n-pk9g2wxc8p.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oerxw56oh1-ft3s53vfgj.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/gz74sukt6r-6cfz1n2cew.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dco2blprv9-6pdc2jztkx.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/nq0b7cdbfc-493y06b0oq.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/9i05kky3rn-iovd86k7lj.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r10iy6i6xj-vr1egmr9el.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/39ekbw73iw-kbrnm935zg.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/787rxb6hqj-jj8uyg4cgr.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/scppop9e1r-y7v9cxd14o.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/nzsuja7b4b-notf2xhcfb.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/wywgupjmaa-h1s4sie4z3.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/45h6lnyzw5-63fj8s7r0e.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/b2roh301eo-0j3bgjxly4.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7j426dqm6s-47otxtyo56.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/77xgh9otep-4v8eqarkd7.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/cpk569zfc9-356vix0kms.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/6hus16hvbk-83jwlth58m.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/662falemx1-mrlpezrjn3.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/rlh3qpk9y1-lzl9nlhx6b.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/e7ku5vbqbe-ag7o75518u.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/thw5mojyl9-x0q3zqp4vz.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/z9vitkxbde-0i3buxo5is.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/6rg3l00f8n-o1o13a6vjx.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7qbtdxg1fd-ttgo8qnofa.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dpwvi0cwsf-2z0ns9nrw6.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xd3u34yi1a-muycvpuwrr.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/jgwqv83ko7-87fc7y1x7t.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/h19r1hdei9-mlv21k5csn.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r1ijb1qn5q-7mgtxg7v9y.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r06s4730wx-7mgtxg7v9y.gz
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.build.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.development.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.build.Hospital.props
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Hospital.props
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Hospital.props
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.pack.json
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.Up2Date
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/refint/Hospital.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.pdb
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.genruntimeconfig.cache
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/ref/Hospital.dll
+D:/Melani/Documents/Progra Avanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/cnq3z5wrpv-b4uj850ss6.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/appsettings.Development.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/appsettings.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.staticwebassets.runtime.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.staticwebassets.endpoints.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.exe
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.deps.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.runtimeconfig.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.pdb
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Azure.Core.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Azure.Identity.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Humanizer.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Mono.TextTemplating.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.ClientModel.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.CodeDom.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Convention.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Hosting.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Runtime.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.TypedParts.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Formats.Asn1.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Memory.Data.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Runtime.Caching.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Text.Json.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.AssemblyReference.cache
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.AssemblyInfoInputs.cache
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.AssemblyInfo.cs
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.CoreCompileInputs.cache
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.MvcApplicationPartsAssemblyInfo.cache
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.RazorAssemblyInfo.cache
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.RazorAssemblyInfo.cs
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.sourcelink.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/bundle/Hospital.styles.css
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/projectbundle/Hospital.bundle.scp.css
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/obav48o8cp-xtxxf3hu2r.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/0tx69uh6mx-bqjiyaj88i.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/sixrs3zrix-c2jlpeoesf.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/448sj3kuy1-erw9l3u2r3.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7u7cihtnsi-aexeepp0ev.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oclg9yi4l9-d7shbmvgxk.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/5j85d8t3ut-ausgxo2sd3.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/lszdi8epk8-k8d9w2qqmf.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/8vefr4e9hm-cosvhxvwiu.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/pq6nlyi7p0-ub07r2b239.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/hig3axjfmw-fvhpjtyr6v.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/ugb5ui5p5b-b7pk76d08c.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/of5kgzb0a7-fsbi9cje9m.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/gw354mgxwt-rzd6atqjts.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/kv8svraaqd-ee0r1s7dh0.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/h8p5244dn9-dxx9fxp4il.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/vypybwm1kc-jd9uben2k1.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/l5fsy26dps-khv3u5hwcm.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/inket3q72x-r4e9w2rdcm.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/1mhntamn7e-lcd1t2u6c8.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/c8t5m2lha8-c2oey78nd0.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/4bjzd9d5lw-tdbxkamptv.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/axzrcuzsud-j5mq2jizvt.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/saidedbmuz-06098lyss8.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xgjxnh7exf-nvvlpmu67g.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/p3li8svcar-s35ty4nyc5.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/hffln1otyn-pj5nd1wqec.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/jjs8mntc1d-46ein0sx1k.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/utdijng67s-v0zj4ognzu.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xtebhmixhg-37tfw0ft22.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xgb04hx23g-hrwsygsryq.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oznaobwl4n-pk9g2wxc8p.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oerxw56oh1-ft3s53vfgj.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/gz74sukt6r-6cfz1n2cew.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dco2blprv9-6pdc2jztkx.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/nq0b7cdbfc-493y06b0oq.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/9i05kky3rn-iovd86k7lj.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r10iy6i6xj-vr1egmr9el.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/39ekbw73iw-kbrnm935zg.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/787rxb6hqj-jj8uyg4cgr.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/scppop9e1r-y7v9cxd14o.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/nzsuja7b4b-notf2xhcfb.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/wywgupjmaa-h1s4sie4z3.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/45h6lnyzw5-63fj8s7r0e.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/b2roh301eo-0j3bgjxly4.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7j426dqm6s-47otxtyo56.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/77xgh9otep-4v8eqarkd7.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/cpk569zfc9-356vix0kms.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/6hus16hvbk-83jwlth58m.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/662falemx1-mrlpezrjn3.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/rlh3qpk9y1-lzl9nlhx6b.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/e7ku5vbqbe-ag7o75518u.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/thw5mojyl9-x0q3zqp4vz.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/z9vitkxbde-0i3buxo5is.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/6rg3l00f8n-o1o13a6vjx.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7qbtdxg1fd-ttgo8qnofa.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dpwvi0cwsf-2z0ns9nrw6.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xd3u34yi1a-muycvpuwrr.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/jgwqv83ko7-87fc7y1x7t.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/h19r1hdei9-mlv21k5csn.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r1ijb1qn5q-7mgtxg7v9y.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r06s4730wx-7mgtxg7v9y.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.build.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.development.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.build.Hospital.props
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Hospital.props
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Hospital.props
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.pack.json
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.Up2Date
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/refint/Hospital.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.pdb
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.genruntimeconfig.cache
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/ref/Hospital.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Build.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Build.Framework.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Elfie.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Features.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.DiaSymReader.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.NET.StringTools.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/dotnet-aspnet-codegenerator-design.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Newtonsoft.Json.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Common.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Configuration.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.DependencyResolver.Core.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Frameworks.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.LibraryModel.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Packaging.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.ProjectModel.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Protocol.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Versioning.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/af/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ar/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/az/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/bg/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/bn-BD/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/da/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/el/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fa/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fi-FI/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr-BE/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/he/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/hr/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/hu/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/hy/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/id/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/is/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ku/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/lv/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ms-MY/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/mt/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/nb/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/nb-NO/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/nl/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ro/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sk/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sl/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sr/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sr-Latn/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sv/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/uk/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/uz-Cyrl-UZ/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/uz-Latn-UZ/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/vi/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-CN/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dg4in5t4t2-2461e0os6k.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/cnq3z5wrpv-l4ogkrlkiu.gz
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.AspNetCore.Authorization.dll
+C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.AspNetCore.Metadata.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.AssemblyReference.cache
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.AssemblyInfoInputs.cache
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.AssemblyInfo.cs
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.CoreCompileInputs.cache
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.MvcApplicationPartsAssemblyInfo.cache
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.RazorAssemblyInfo.cache
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.RazorAssemblyInfo.cs
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.sourcelink.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/appsettings.Development.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/appsettings.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.staticwebassets.runtime.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.staticwebassets.endpoints.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.deps.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.runtimeconfig.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Hospital.pdb
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Azure.Core.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Azure.Identity.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Humanizer.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.AspNetCore.Authorization.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.AspNetCore.Metadata.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Build.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Build.Framework.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Features.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.DiaSymReader.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.NET.StringTools.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/dotnet-aspnet-codegenerator-design.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Common.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Configuration.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.DependencyResolver.Core.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Frameworks.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.LibraryModel.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Packaging.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.ProjectModel.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Protocol.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/NuGet.Versioning.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.ClientModel.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.CodeDom.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Formats.Asn1.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/System.Text.Json.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/af/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ar/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/az/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/bg/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/bn-BD/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/da/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/el/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fa/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fi-FI/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr-BE/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/he/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/hr/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/hu/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/hy/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/id/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/is/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ku/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/lv/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ms-MY/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/mt/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/nb/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/nb-NO/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/nl/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ro/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sk/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sl/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sr/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sr-Latn/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/sv/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/uk/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/vi/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-CN/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/bundle/Hospital.styles.css
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/scopedcss/projectbundle/Hospital.bundle.scp.css
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/cnq3z5wrpv-5ole0t58hd.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dg4in5t4t2-2461e0os6k.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/obav48o8cp-fr7q2aak1r.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/0tx69uh6mx-bqjiyaj88i.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/sixrs3zrix-c2jlpeoesf.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/448sj3kuy1-erw9l3u2r3.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7u7cihtnsi-aexeepp0ev.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oclg9yi4l9-d7shbmvgxk.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/5j85d8t3ut-ausgxo2sd3.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/lszdi8epk8-k8d9w2qqmf.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/8vefr4e9hm-cosvhxvwiu.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/pq6nlyi7p0-ub07r2b239.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/hig3axjfmw-fvhpjtyr6v.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/ugb5ui5p5b-b7pk76d08c.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/of5kgzb0a7-fsbi9cje9m.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/gw354mgxwt-rzd6atqjts.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/kv8svraaqd-ee0r1s7dh0.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/h8p5244dn9-dxx9fxp4il.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/vypybwm1kc-jd9uben2k1.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/l5fsy26dps-khv3u5hwcm.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/inket3q72x-r4e9w2rdcm.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/1mhntamn7e-lcd1t2u6c8.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/c8t5m2lha8-c2oey78nd0.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/4bjzd9d5lw-tdbxkamptv.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/axzrcuzsud-j5mq2jizvt.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/saidedbmuz-06098lyss8.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xgjxnh7exf-nvvlpmu67g.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/p3li8svcar-s35ty4nyc5.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/hffln1otyn-pj5nd1wqec.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/jjs8mntc1d-46ein0sx1k.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/utdijng67s-v0zj4ognzu.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xtebhmixhg-37tfw0ft22.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xgb04hx23g-hrwsygsryq.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oznaobwl4n-pk9g2wxc8p.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/oerxw56oh1-ft3s53vfgj.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/gz74sukt6r-6cfz1n2cew.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dco2blprv9-6pdc2jztkx.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/nq0b7cdbfc-493y06b0oq.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/9i05kky3rn-iovd86k7lj.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r10iy6i6xj-vr1egmr9el.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/39ekbw73iw-kbrnm935zg.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/787rxb6hqj-jj8uyg4cgr.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/scppop9e1r-y7v9cxd14o.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/nzsuja7b4b-notf2xhcfb.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/wywgupjmaa-h1s4sie4z3.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/45h6lnyzw5-63fj8s7r0e.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/b2roh301eo-0j3bgjxly4.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7j426dqm6s-47otxtyo56.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/77xgh9otep-4v8eqarkd7.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/cpk569zfc9-l3n5xuwxn8.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/6hus16hvbk-ilo7uva0vt.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/662falemx1-qlccset4i1.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/rlh3qpk9y1-lzl9nlhx6b.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/e7ku5vbqbe-ag7o75518u.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/thw5mojyl9-xzw0cte36n.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/z9vitkxbde-0i3buxo5is.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/6rg3l00f8n-o1o13a6vjx.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/7qbtdxg1fd-ttgo8qnofa.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/dpwvi0cwsf-2z0ns9nrw6.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/xd3u34yi1a-muycvpuwrr.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/jgwqv83ko7-87fc7y1x7t.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/h19r1hdei9-jfsiqqwiad.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r1ijb1qn5q-kdc13b7vqf.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/compressed/r06s4730wx-kdc13b7vqf.gz
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.build.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.development.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.Hospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.build.Hospital.props
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Hospital.props
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Hospital.props
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.csproj.Up2Date
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/refint/Hospital.dll
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.pdb
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/Hospital.genruntimeconfig.cache
+/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/Debug/net9.0/ref/Hospital.dll

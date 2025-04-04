@@ -1,0 +1,82 @@
+@page "{id:int}"
+@model Hospital.Pages.Expedientes.EditModel
+@{
+    ViewData["Title"] = "Editar Expediente";
+}
+
+
+<style>
+    .card-editar-expediente {
+        background-color: white;
+        max-width: 600px;
+        margin: 40px auto;
+        padding: 30px 40px;
+        border-radius: 10px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-editar-expediente h2 {
+        text-align: center;
+        margin-bottom: 25px;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    .card-editar-expediente label {
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 6px;
+        font-weight: 500;
+    }
+
+    .card-editar-expediente input[type="text"],
+    .card-editar-expediente textarea,
+    .card-editar-expediente select {
+        width: 100%;
+        padding: 10px 12px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        font-size: 16px;
+        box-sizing: border-box;
+    }
+
+    .card-editar-expediente button {
+        margin-top: 25px;
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+</style>
+
+<div class="card-editar-expediente">
+    <h1>Editar Expediente</h1>
+
+    <form method="post">
+        <input type="hidden" asp-for="Expediente.Id" />
+
+        <div class="form-group">
+            <label>Paciente</label>
+            <input class="form-control" value="@Model.NombrePaciente" disabled />
+        </div>
+        <div class="form-group">
+            <label asp-for="Expediente.Diagnostico"></label>
+            <textarea asp-for="Expediente.Diagnostico" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <label asp-for="Expediente.Tratamientos"></label>
+            <textarea asp-for="Expediente.Tratamientos" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <label asp-for="Expediente.Medicamentos"></label>
+            <textarea asp-for="Expediente.Medicamentos" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <label asp-for="Expediente.Historial"></label>
+            <textarea asp-for="Expediente.Historial" class="form-control" readonly disabled></textarea>
+        </div>
+
+       <div class="d-grid gap-3 mt-4" style="grid-template-columns: 1fr 1fr;">
+            <button type="submit" class="btn btn-primary">Guardar cambios</button>
+            <button type="button" class="btn btn-secondary" onclick="window.location.href='@Url.Page("./Index")'">Cancelar</button>
+        </div>
+    </form>
+</div>

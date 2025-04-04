@@ -11,20 +11,32 @@ namespace Hospital.Models
         public HospitalDBContext(DbContextOptions<HospitalDBContext> options)
             : base(options)
         {
+            Console.WriteLine(">>>>> CADENA DE CONEXIÓN UTILIZADA:");
+            Console.WriteLine(this.Database.GetDbConnection().ConnectionString);
         }
+
+        public DbSet<Paciente> Pacientes { get; set; }
         public DbSet<Cita> Citas { get; set; }
         public DbSet<Especialidad> Especialidades { get; set; }
         public DbSet<Medico> Medicos { get; set; }
         public DbSet<Estado> Estados { get; set; }
+        public DbSet<Expediente> Expedientes { get; set; }
 
         public virtual DbSet<Usuario> Usuarios { get; set; }
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-   => optionsBuilder.UseSqlServer("Server=DESKTOP-UJNOQQC;Database=Hospital;Trusted_Connection=True;TrustServerCertificate=True;");
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+   //=> optionsBuilder.UseSqlServer("Server=DESKTOP-UJNOQQC;Database=Hospital;Trusted_Connection=True;TrustServerCertificate=True;");
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+            modelBuilder.Entity<Expediente>()
+                .HasOne(e => e.Paciente)
+                .WithMany(p => p.Expedientes)
+                .HasForeignKey(e => e.PacienteId)
+                .OnDelete(DeleteBehavior.Restrict);
+
             modelBuilder.Entity<Cita>()
                 .HasOne(c => c.Especialidad)
                 .WithMany(c => c.Citas)

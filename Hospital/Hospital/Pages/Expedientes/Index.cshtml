@@ -1,0 +1,40 @@
+@page
+@model Hospital.Pages.Expedientes.IndexModel
+@{
+    ViewData["Title"] = "Expedientes";
+}
+
+<div class="container mt-4">
+    <div class="bg-white p-4 rounded shadow">
+        <h1 class="text-center fw-bold mb-4">Expedientes</h1>
+
+        <div class="d-flex justify-content-end mb-3">
+            <a asp-page="Crear" class="btn btn-primary mb-3">Agregar Nuevo</a>
+        </div>
+
+        <table class="table mt-3">
+            <thead>
+                <tr>
+                    <th>Paciente</th>
+                    <th>Diagnóstico</th>
+                    <th>Fecha</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var expediente in Model.Expedientes)
+            {
+                <tr>
+                    <td>@expediente.Paciente.Nombre @expediente.Paciente.Apellido</td>
+                    <td>@expediente.Diagnostico</td>
+                    <td>@expediente.FechaCreacion.ToShortDateString()</td>
+                    <td>
+                        <a asp-page="Edit" asp-route-id="@expediente.Id">Editar</a> |
+                        <a asp-page="Delete" asp-route-id="@expediente.Id">Eliminar</a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>        

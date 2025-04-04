@@ -93,6 +93,45 @@ namespace Hospital.Migrations
                     b.ToTable("Estados");
                 });
 
+            modelBuilder.Entity("Hospital.Models.Expediente", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Diagnostico")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("Fecha")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("FechaCreacion")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Historial")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Medicamentos")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("PacienteId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Tratamientos")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PacienteId");
+
+                    b.ToTable("Expedientes");
+                });
+
             modelBuilder.Entity("Hospital.Models.Medico", b =>
                 {
                     b.Property<int>("IdMedico")
@@ -116,6 +155,37 @@ namespace Hospital.Migrations
                     b.HasIndex("IdEspecialidad");
 
                     b.ToTable("Medicos");
+                });
+
+            modelBuilder.Entity("Hospital.Models.Paciente", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Apellido")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("Direccion")
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("Telefono")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Pacientes");
                 });
 
             modelBuilder.Entity("Hospital.Models.Usuario", b =>
@@ -195,6 +265,17 @@ namespace Hospital.Migrations
                     b.Navigation("Medico");
                 });
 
+            modelBuilder.Entity("Hospital.Models.Expediente", b =>
+                {
+                    b.HasOne("Hospital.Models.Paciente", "Paciente")
+                        .WithMany("Expedientes")
+                        .HasForeignKey("PacienteId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Paciente");
+                });
+
             modelBuilder.Entity("Hospital.Models.Medico", b =>
                 {
                     b.HasOne("Hospital.Models.Especialidad", "Especialidad")
@@ -221,6 +302,11 @@ namespace Hospital.Migrations
             modelBuilder.Entity("Hospital.Models.Medico", b =>
                 {
                     b.Navigation("Citas");
+                });
+
+            modelBuilder.Entity("Hospital.Models.Paciente", b =>
+                {
+                    b.Navigation("Expedientes");
                 });
 #pragma warning restore 612, 618
         }
