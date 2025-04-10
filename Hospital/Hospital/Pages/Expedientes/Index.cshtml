@@ -12,12 +12,45 @@
             <a asp-page="Crear" class="btn btn-primary mb-3">Agregar Nuevo</a>
         </div>
 
+       <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1">
+                <i class="fas fa-search"></i>
+            </span>
+            <input type="text" id="buscador" class="form-control" placeholder="Buscar por nombre, apellido, diagnóstico..." aria-label="Buscar" aria-describedby="basic-addon1">
+        </div>
+        
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const buscador = document.getElementById("buscador");
+                const filas = document.querySelectorAll("tbody tr");
+
+                function normalizarTexto(texto) {
+                    return texto
+                        .normalize("NFD")
+                        .replace(/[\u0300-\u036f]/g, "")
+                        .toLowerCase();
+                }
+
+                buscador.addEventListener("input", function () {
+                    const valor = normalizarTexto(buscador.value);
+
+                    filas.forEach(fila => {
+                        const textoFila = normalizarTexto(fila.innerText);
+                        fila.style.display = textoFila.includes(valor) ? "" : "none";
+                    });
+                });
+            });
+        </script>
+
+
         <table class="table mt-3">
             <thead>
                 <tr>
                     <th>Paciente</th>
                     <th>Diagnóstico</th>
-                    <th>Fecha</th>
+                    <th>Tratamientos</th>
+                    <th>Medicamentos</th>
+                    <th>Fecha de creación</th>
                     <th></th>
                 </tr>
             </thead>
@@ -27,6 +60,8 @@
                 <tr>
                     <td>@expediente.Paciente.Nombre @expediente.Paciente.Apellido</td>
                     <td>@expediente.Diagnostico</td>
+                    <td>@expediente.Tratamientos</td>
+                    <td>@expediente.Medicamentos</td>
                     <td>@expediente.FechaCreacion.ToShortDateString()</td>
                     <td>
                         <a asp-page="Edit" asp-route-id="@expediente.Id">Editar</a> |
