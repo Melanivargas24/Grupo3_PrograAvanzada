@@ -10,7 +10,7 @@ namespace Hospital.Models
         [Required]
         public int PacienteId { get; set; }
 
-        public Paciente Paciente { get; set; } = null!;
+        public Paciente? Paciente { get; set; }
 
         [Required]
         public string Diagnostico { get; set; } = string.Empty;

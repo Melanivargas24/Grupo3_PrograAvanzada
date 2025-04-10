@@ -34,11 +34,20 @@ namespace Hospital.Pages.Expedientes
 
     public IActionResult OnPost()
     {
+        Console.WriteLine(">>> OnPost ejecutado");
+        Console.WriteLine($"PacienteId recibido: {Expediente.PacienteId}");
+        Console.WriteLine($"ModelState válido: {ModelState.IsValid}");
 
-        Console.WriteLine("PacienteId recibido: " + Expediente.PacienteId);
-        
         if (!ModelState.IsValid)
         {
+            foreach (var state in ModelState)
+            {
+                foreach (var error in state.Value.Errors)
+                {
+                    Console.WriteLine($"Error en campo '{state.Key}': {error.ErrorMessage}");
+                }
+            }
+
             var pacientes = _context.Pacientes
                 .Select(p => new PacienteSelectItem
                 {
