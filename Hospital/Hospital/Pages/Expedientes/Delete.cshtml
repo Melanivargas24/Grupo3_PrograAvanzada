@@ -1,31 +1,49 @@
-@page "{id:int}"
+@page
 @model Hospital.Pages.Expedientes.DeleteModel
 @{
     ViewData["Title"] = "Eliminar Expediente";
 }
 
-<h1>Eliminar Expediente</h1>
+<div class="container mt-5">
+    <div class="bg-white p-4 rounded shadow col-md-6 mx-auto">
+        <h2 class="text-center mb-4 fw-bold text-danger">¿Estás seguro que deseas eliminar este expediente?</h2>
 
-<h4>¿Estás seguro que deseas eliminar este expediente?</h4>
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Paciente:</label>
+            <div>@Model.Expediente.Paciente.Nombre @Model.Expediente.Paciente.Apellido</div>
+        </div>
 
-<div>
-    <dl class="row">
-        <dt class="col-sm-2">ID del Paciente</dt>
-        <dd class="col-sm-10">@Model.Expediente.PacienteId</dd>
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Diagnóstico:</label>
+            <div>@Model.Expediente.Diagnostico</div>
+        </div>
 
-        <dt class="col-sm-2">Medicamentos</dt>
-        <dd class="col-sm-10">@Model.Expediente.Medicamentos</dd>
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Tratamientos:</label>
+            <div>@Model.Expediente.Tratamientos</div>
+        </div>
 
-        <dt class="col-sm-2">Tratamientos</dt>
-        <dd class="col-sm-10">@Model.Expediente.Tratamientos</dd>
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Medicamentos:</label>
+            <div>@Model.Expediente.Medicamentos</div>
+        </div>
 
-        <dt class="col-sm-2">Historial</dt>
-        <dd class="col-sm-10">@Model.Expediente.Historial</dd>
-    </dl>
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Historial:</label>
+            <div>@Model.Expediente.Historial</div>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label fw-semibold">Fecha de creación:</label>
+            <div>@Model.Expediente.FechaCreacion.ToString("dd/MM/yyyy")</div>
+        </div>
+
+        <form method="post">
+            <input type="hidden" asp-for="Expediente.Id" />
+            <div class="text-center mt-4">
+                <button type="submit" class="btn btn-danger rounded">Eliminar</button>
+                <a asp-page="./Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
 </div>
-
-<form method="post">
-    <input type="hidden" asp-for="Expediente.Id" />
-    <button type="submit" class="btn btn-danger">Eliminar</button>
-    <a asp-page="./Index" class="btn btn-secondary">Cancelar</a>
-</form>

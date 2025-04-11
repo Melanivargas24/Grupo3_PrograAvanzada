@@ -10,35 +10,35 @@
 
         <form method="post">
 
-            <div asp-validation-summary="All" class="text-danger"></div>
+            <div asp-validation-summary="All" class="form-label"></div>
 
             <partial name="_ValidationScriptsPartial" />
-            <vc:validation-summary class="text-danger" />
+            <vc:validation-summary class="form-label" />
 
             <div class="form-group">
                 <label asp-for="Expediente.PacienteId" class="form-label">Paciente</label>
                 <select asp-for="Expediente.PacienteId" class="form-control" asp-items="Model.PacientesSelectList">
                     <option value="">-- Seleccione un paciente --</option>
                 </select>
-                <span asp-validation-for="Expediente.PacienteId" class="text-danger"></span>
+                <span asp-validation-for="Expediente.PacienteId" class="form-label"></span>
             </div>
 
             <div class="mb-3">
                 <label asp-for="Expediente.Diagnostico" class="form-label">Diagnóstico</label>
                 <input asp-for="Expediente.Diagnostico" class="form-control" />
-                <span asp-validation-for="Expediente.Diagnostico" class="text-danger"></span>
+                <span asp-validation-for="Expediente.Diagnostico" class="form-label"></span>
             </div>
 
             <div class="mb-3">
                 <label asp-for="Expediente.Tratamientos" class="form-label">Tratamiento</label>
                 <input asp-for="Expediente.Tratamientos" class="form-control" />
-                <span asp-validation-for="Expediente.Tratamientos" class="text-danger"></span>
+                <span asp-validation-for="Expediente.Tratamientos" class="form-label"></span>
             </div>
 
             <div class="mb-3">
                 <label asp-for="Expediente.Medicamentos" class="form-label">Medicamentos</label>
                 <input asp-for="Expediente.Medicamentos" class="form-control" />
-                <span asp-validation-for="Expediente.Medicamentos" class="text-danger"></span>
+                <span asp-validation-for="Expediente.Medicamentos" class="form-label"></span>
             </div>
 
             <div class="text-center mt-4">

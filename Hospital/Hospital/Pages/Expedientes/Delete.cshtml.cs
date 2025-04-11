@@ -1,6 +1,7 @@
 using Hospital.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 
 namespace Hospital.Pages.Expedientes
 {
@@ -14,11 +15,18 @@ namespace Hospital.Pages.Expedientes
         }
 
         [BindProperty]
-        public Expediente Expediente { get; set; }
+        public Expediente Expediente { get; set; } = null!;
 
-        public IActionResult OnGet(int id)
+        public async Task<IActionResult> OnGetAsync(int? id)
         {
-            Expediente = _context.Expedientes.FirstOrDefault(e => e.Id == id);
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            Expediente = await _context.Expedientes
+                .Include(e => e.Paciente)
+                .FirstOrDefaultAsync(m => m.Id == id);
 
             if (Expediente == null)
             {
@@ -28,19 +36,22 @@ namespace Hospital.Pages.Expedientes
             return Page();
         }
 
-        public IActionResult OnPost()
+        public async Task<IActionResult> OnPostAsync(int? id)
         {
-            var expediente = _context.Expedientes.FirstOrDefault(e => e.Id == Expediente.Id);
-
-            if (expediente == null)
+            if (id == null)
             {
                 return NotFound();
             }
 
-            _context.Expedientes.Remove(expediente);
-            _context.SaveChanges();
+            var expediente = await _context.Expedientes.FindAsync(id);
 
-            return RedirectToPage("Index");
+            if (expediente != null)
+            {
+                _context.Expedientes.Remove(expediente);
+                await _context.SaveChangesAsync();
+            }
+
+            return RedirectToPage("./Index");
         }
     }
 }
