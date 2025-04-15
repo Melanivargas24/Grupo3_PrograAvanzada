@@ -92,7 +92,30 @@
                         <li class="nav-item">
                             @if (User.IsInRole("Administrador"))
                             {
-                                <a class="nav-link text-white px-3" asp-area="" asp-page="/Admin/Index">Administración</a>
+
+
+
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-white px-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Administrador
+                                </a>
+                                <ul class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
+                                    <li><a class="dropdown-item text-white" asp-area="" asp-page="/Admin/Index">Administrar Usuarios</a></li>
+
+                                    <li><a class="dropdown-item text-white" asp-area="" asp-page="/Admin/Citas/Detalle">Adminstrar Citas</a></li>
+
+                                </ul>
+                            </li>
+
+
+
+
+
+
+
+
+
                             }
                         </li>
 

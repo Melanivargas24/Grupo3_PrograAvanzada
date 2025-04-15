@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Hospital.Models;
 using System.Security.Claims;
 
-namespace Hospital.Pages.Citas
+namespace Hospital.Pages.Admin.Citas
 {
     public class AgendarModel : PageModel
     {
@@ -19,13 +19,24 @@ namespace Hospital.Pages.Citas
             _context = context;
         }
 
-        public IActionResult OnGet()
+        public IActionResult OnGet(int? pacienteId)
         {
-        ViewData["IdEspecialidad"] = new SelectList(_context.Especialidades, "IdEspecialidad", "Nombre");
-        ViewData["IdEstado"] = new SelectList(_context.Estados, "IdEstado", "Nombre");
-        ViewData["IdMedico"] = new SelectList(_context.Medicos, "IdMedico", "IdMedico");
+            ViewData["IdEspecialidad"] = new SelectList(_context.Especialidades, "IdEspecialidad", "Nombre");
+            ViewData["IdEstado"] = new SelectList(_context.Estados, "IdEstado", "Nombre");
+            ViewData["IdMedico"] = new SelectList(_context.Medicos, "IdMedico", "IdMedico");
+
+            // Asegúrate de inicializar Cita
+            Cita = new Cita();
+
+            if (pacienteId.HasValue)
+            {
+                Cita.IdPaciente = pacienteId.Value;
+            }
+
             return Page();
         }
+
+
 
         [BindProperty]
         public Cita Cita { get; set; } = default!;
@@ -35,13 +46,9 @@ namespace Hospital.Pages.Citas
         {
             if (ModelState.IsValid)
             {
-           
+
                 return Page();
             }
-            var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
-            int idUsuario = int.Parse(userIdClaim.Value);
-            Cita.IdPaciente = idUsuario;
-
             Cita.IdEstado = 1;
             _context.Citas.Add(Cita);
             await _context.SaveChangesAsync();

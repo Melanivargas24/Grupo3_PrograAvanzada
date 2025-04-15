@@ -1,13 +1,14 @@
-﻿using System.Security.Claims; 
-using Hospital.Models;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc.RazorPages;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
+using Hospital.Models;
 
-namespace Hospital.Pages.Citas
+namespace Hospital.Pages.Admin.Citas
 {
-    [Authorize] 
     public class DetalleModel : PageModel
     {
         private readonly Hospital.Models.HospitalDBContext _context;
@@ -21,23 +22,12 @@ namespace Hospital.Pages.Citas
 
         public async Task OnGetAsync()
         {
-            var userIdClaim = User.FindFirstValue(ClaimTypes.NameIdentifier);
-
-            if (string.IsNullOrEmpty(userIdClaim))
-            {
-                Cita = new List<Cita>();
-                return;
-            }
-
-            int idPaciente = int.Parse(userIdClaim);
-
             Cita = await _context.Citas
                 .Include(c => c.Especialidad)
                 .Include(c => c.Estado)
-                .Include(c => c.Medico)
-                .Where(c => c.IdPaciente == idPaciente)
-                .ToListAsync();
+                .Include(c => c.Medico).ToListAsync();
         }
+
 
         public async Task<IActionResult> OnPostAsync(int idCita)
         {
@@ -49,9 +39,11 @@ namespace Hospital.Pages.Citas
             }
 
             cita.IdEstado = 2;
+
             await _context.SaveChangesAsync();
 
             return RedirectToPage("/Citas/Detalle");
         }
+
     }
 }

@@ -1,0 +1,40 @@
+﻿@page
+@model Hospital.Pages.Admin.Citas.SeleccionarPacienteModel
+@{
+    ViewData["Title"] = "Seleccionar Usuario";
+}
+
+<h2>Seleccionar Usuario</h2>
+
+<form method="get">
+    <div class="input-group mb-3">
+        <input type="text" name="busqueda" class="form-control" placeholder="Buscar por nombre o correo" value="@Model.Busqueda" />
+        <button class="btn btn-primary" type="submit">Buscar</button>
+    </div>
+</form>
+
+<form method="post">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Email</th>
+                <th>Seleccionar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var usuario in Model.Usuarios)
+            {
+                <tr>
+                    <td>@usuario.Nombre</td>
+                    <td>@usuario.Apellido</td>
+                    <td>@usuario.Email</td>
+                    <td>
+                        <button type="submit" name="pacienteId" value="@usuario.Id" class="btn btn-success">Seleccionar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
