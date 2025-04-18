@@ -16,7 +16,7 @@ namespace Hospital.Pages.Expedientes
         }
 
         [BindProperty]
-        public Expediente Expediente { get; set; }
+        public Expediente Expediente { get; set; } = null!;
 
         public SelectList PacientesSelectList { get; set; } = null!;
 
@@ -26,7 +26,7 @@ namespace Hospital.Pages.Expedientes
         {
             PacientesSelectList = new SelectList(
                 _context.Pacientes
-                    .Include(p => p.Usuario) 
+                    .Include(p => p.Usuario)
                     .Select(p => new
                     {
                         Id = p.Id,
@@ -47,20 +47,36 @@ namespace Hospital.Pages.Expedientes
 
             NombrePaciente = paciente != null ? $"{paciente.Usuario.Nombre} {paciente.Usuario.Apellido}" : "Paciente no encontrado";
 
+            // Obtener historial de citas
+            var citas = await _context.Citas
+                .Where(c => c.IdPaciente == Expediente.PacienteId)
+                .Include(c => c.Medico).ThenInclude(m => m.Usuario)
+                .Include(c => c.Especialidad)
+                .OrderByDescending(c => c.Fecha)
+                .ToListAsync();
+
+            var historial = citas.Select(c =>
+                $"- {c.Fecha.ToShortDateString()} con Dr. {c.Medico.Usuario.Nombre} {c.Medico.Usuario.Apellido} ({c.Especialidad.Nombre})");
+
+            Expediente.Historial = string.Join("\n", historial);
+
             return Page();
         }
-
 
         public IActionResult OnPost()
         {
             if (!ModelState.IsValid)
             {
                 PacientesSelectList = new SelectList(
-                    _context.Pacientes.Select(p => new {
-                        Id = p.Id,
-                        NombreCompleto = p.Usuario.Nombre + " " + p.Usuario.Apellido
-                    }), "Id", "NombreCompleto");
-                    
+                    _context.Pacientes
+                        .Include(p => p.Usuario)
+                        .Select(p => new
+                        {
+                            Id = p.Id,
+                            NombreCompleto = p.Usuario.Nombre + " " + p.Usuario.Apellido
+                        }),
+                    "Id", "NombreCompleto");
+
                 return Page();
             }
 
