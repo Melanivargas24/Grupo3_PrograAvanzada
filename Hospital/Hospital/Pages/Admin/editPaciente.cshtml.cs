@@ -20,7 +20,7 @@ namespace Hospital.Pages.Admin
         }
 
         [BindProperty]
-        public Usuario Usuario { get; set; } = default!;
+        public Paciente Paciente { get; set; } = default!;
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
@@ -29,12 +29,15 @@ namespace Hospital.Pages.Admin
                 return NotFound();
             }
 
-            var usuario =  await _context.Usuarios.FirstOrDefaultAsync(m => m.Id == id);
-            if (usuario == null)
+            var paciente = await _context.Pacientes
+              .Include(p => p.Usuario)
+              .FirstOrDefaultAsync(m => m.Id == id);
+
+            if (paciente == null)
             {
                 return NotFound();
             }
-            Usuario = usuario;
+            Paciente = paciente;
             return Page();
         }
 
@@ -42,12 +45,29 @@ namespace Hospital.Pages.Admin
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
-            if (!ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 return Page();
             }
 
-            _context.Attach(Usuario).State = EntityState.Modified;
+            // Buscar el paciente actual incluyendo el Usuario
+            var paciente = await _context.Pacientes
+                .Include(p => p.Usuario)
+                .FirstOrDefaultAsync(p => p.Id == Paciente.Id);
+
+            if (paciente == null)
+            {
+                return NotFound();
+            }
+
+            paciente.Usuario.Nombre = Paciente.Usuario.Nombre;
+            paciente.Usuario.Apellido = Paciente.Usuario.Apellido;
+            paciente.Usuario.Telefono = Paciente.Usuario.Telefono;
+            paciente.Usuario.Direccion = Paciente.Usuario.Direccion;
+            paciente.Usuario.Email = Paciente.Usuario.Email;
+            paciente.Usuario.Clave = Paciente.Usuario.Clave;
+
+    
 
             try
             {
@@ -55,7 +75,7 @@ namespace Hospital.Pages.Admin
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!UsuarioExists(Usuario.Id))
+                if (!PacienteExists(Paciente.Id))
                 {
                     return NotFound();
                 }
@@ -68,9 +88,11 @@ namespace Hospital.Pages.Admin
             return RedirectToPage("./Index");
         }
 
-        private bool UsuarioExists(int id)
+        private bool PacienteExists(int id)
         {
-            return _context.Usuarios.Any(e => e.Id == id);
+            return _context.Pacientes.Any(e => e.Id == id);
         }
+
+
     }
 }

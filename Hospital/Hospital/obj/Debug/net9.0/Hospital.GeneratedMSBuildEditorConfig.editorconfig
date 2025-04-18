@@ -17,113 +17,141 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hospital
 build_property.RootNamespace = Hospital
-build_property.ProjectDir = /Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/
+build_property.ProjectDir = C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital
+build_property.MSBuildProjectDirectory = C:\Projects\Grupo3_PrograAvanzada\Hospital\Hospital
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vSW5kZXguY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/Citas/Agendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2l0YXNcQWdlbmRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Citas/Agendar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0YXMvQWdlbmRhci5jc2h0bWw=
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/Citas/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2l0YXNcRGV0YWxsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Citas/Detalle.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0YXMvRGV0YWxsZS5jc2h0bWw=
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/Citas/Reagendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2l0YXNcUmVhZ2VuZGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Citas/Reagendar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0YXMvUmVhZ2VuZGFyLmNzaHRtbA==
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/Citas/SeleccionarPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2l0YXNcU2VsZWNjaW9uYXJQYWNpZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Contacto.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdG8uY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/editMedico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cZWRpdE1lZGljby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/editPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cZWRpdFBhY2llbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Expedientes/Crear.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhwZWRpZW50ZXMvQ3JlYXIuY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Expedientes/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhwZWRpZW50ZXMvRGVsZXRlLmNzaHRtbA==
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Admin/Medicos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVkaWNvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Expedientes/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhwZWRpZW50ZXMvRWRpdC5jc2h0bWw=
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Citas/Agendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0YXNcQWdlbmRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Expedientes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhwZWRpZW50ZXMvSW5kZXguY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Citas/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0YXNcRGV0YWxsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Citas/Reagendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0YXNcUmVhZ2VuZGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4uY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nb3V0LmNzaHRtbA==
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Profile/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmlsZS9JbmRleC5jc2h0bWw=
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Expedientes/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZWRpZW50ZXNcQ3JlYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVnaXN0ZXIuY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Expedientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZWRpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Emergencias.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VydmljaW9zL0VtZXJnZW5jaWFzLmNzaHRtbA==
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Expedientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZWRpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Farmacia.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VydmljaW9zL0Zhcm1hY2lhLmNzaHRtbA==
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Expedientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZWRpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Hospitalizacion.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VydmljaW9zL0hvc3BpdGFsaXphY2lvbi5jc2h0bWw=
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Laboratorio.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VydmljaW9zL0xhYm9yYXRvcmlvLmNzaHRtbA==
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Odontologia.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VydmljaW9zL09kb250b2xvZ2lhLmNzaHRtbA==
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Soporte.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU29wb3J0ZS5jc2h0bWw=
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Emergencias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXEVtZXJnZW5jaWFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Farmacia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXEZhcm1hY2lhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-d8u7oifhyo
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Hospitalizacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXEhvc3BpdGFsaXphY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Laboratorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXExhYm9yYXRvcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Servicios/Odontologia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zXE9kb250b2xvZ2lhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Soporte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29wb3J0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/Grupo3_PrograAvanzada/Hospital/Hospital/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-og8b0rwpzh

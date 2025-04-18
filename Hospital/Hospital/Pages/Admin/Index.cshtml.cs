@@ -2,6 +2,7 @@ using Hospital.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -19,12 +20,15 @@ namespace Hospital.Pages
         }
 
         // Lista de usuarios para mostrar en la vista
-        public IList<Usuario> Users { get; set; }
+        public IList<Paciente> Paciente { get; set; }
 
         public void OnGet()
         {
             // Obtenemos todos los usuarios de la base de datos
-            Users = _context.Usuarios.ToList();
+            Paciente = _context.Pacientes
+             .Include(p => p.Usuario)
+             .ToList();
+
         }
     }
 }

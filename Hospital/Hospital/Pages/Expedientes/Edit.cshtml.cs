@@ -2,6 +2,7 @@ using Hospital.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace Hospital.Pages.Expedientes
 {
@@ -24,11 +25,13 @@ namespace Hospital.Pages.Expedientes
         public async Task<IActionResult> OnGetAsync(int id)
         {
             PacientesSelectList = new SelectList(
-                _context.Pacientes.Select(p => new
-                {
-                    Id = p.Id,
-                    NombreCompleto = p.Nombre + " " + p.Apellido
-                }),
+                _context.Pacientes
+                    .Include(p => p.Usuario) 
+                    .Select(p => new
+                    {
+                        Id = p.Id,
+                        NombreCompleto = p.Usuario.Nombre + " " + p.Usuario.Apellido
+                    }),
                 "Id", "NombreCompleto");
 
             Expediente = await _context.Expedientes.FindAsync(id);
@@ -38,11 +41,15 @@ namespace Hospital.Pages.Expedientes
                 return NotFound();
             }
 
-            var paciente = await _context.Pacientes.FindAsync(Expediente.PacienteId);
-            NombrePaciente = paciente != null ? $"{paciente.Nombre} {paciente.Apellido}" : "Paciente no encontrado";
+            var paciente = await _context.Pacientes
+                .Include(p => p.Usuario)
+                .FirstOrDefaultAsync(p => p.Id == Expediente.PacienteId);
+
+            NombrePaciente = paciente != null ? $"{paciente.Usuario.Nombre} {paciente.Usuario.Apellido}" : "Paciente no encontrado";
 
             return Page();
         }
+
 
         public IActionResult OnPost()
         {
@@ -51,7 +58,7 @@ namespace Hospital.Pages.Expedientes
                 PacientesSelectList = new SelectList(
                     _context.Pacientes.Select(p => new {
                         Id = p.Id,
-                        NombreCompleto = p.Nombre + " " + p.Apellido
+                        NombreCompleto = p.Usuario.Nombre + " " + p.Usuario.Apellido
                     }), "Id", "NombreCompleto");
                     
                 return Page();

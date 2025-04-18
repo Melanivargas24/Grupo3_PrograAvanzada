@@ -5,7 +5,7 @@
 }
 
 <div class="container-cita mt-5">
-    <h2 class="text-center">Administración de Usuarios</h2>
+    <h2 class="text-center">Administración de Pacientes</h2>
     <hr />
 
     <table class="table table-bordered mt-4">
@@ -14,22 +14,26 @@
 				<th>Id</th>
                 <th>Nombre</th>
                 <th>Apellido</th>
+                <th>Teléfono</th>
+                <th>Dirección</th>
                 <th>Email</th>
                 <th>Rol</th>
                 <th>Editar</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var user in Model.Users)
+            @foreach (var paciente in Model.Paciente)
             {
                 <tr>
-                    <td>@user.Id</td>
-                    <td>@user.Nombre</td>
-                    <td>@user.Apellido</td>
-                    <td>@user.Email</td>
-                    <td>@user.Role</td>
+                    <td>@paciente.Id</td>
+                    <td>@paciente.Usuario.Nombre</td>
+                    <td>@paciente.Usuario.Apellido</td>
+                    <td>@paciente.Usuario.Telefono</td>
+                    <td>@paciente.Usuario.Direccion</td>
+                    <td>@paciente.Usuario.Email</td>
+                    <td>@paciente.Usuario.Role</td>
                     <td>
-                    <a asp-page="/Admin/edit" asp-route-id="@user.Id" class="btn btn-cita btn-sm me-2">Editar</a>
+                    <a asp-page="/Admin/editPaciente" asp-route-id="@paciente.Id" class="btn btn-cita btn-sm me-2">Editar</a>
                     </td>
                 </tr>
 

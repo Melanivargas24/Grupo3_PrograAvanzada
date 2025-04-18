@@ -30,5 +30,7 @@ namespace Hospital.Models
 
         public Estado Estado { get; set; } = null!;
 
+        public Paciente Paciente { get; set; } = null!;
+
     }
 }

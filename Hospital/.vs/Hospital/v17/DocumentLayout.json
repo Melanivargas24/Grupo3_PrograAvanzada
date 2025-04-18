@@ -3,96 +3,216 @@
   "WorkspaceRootPath": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\citas\\agendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\citas\\agendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\soporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\soporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\editpaciente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\editpaciente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\servicios\\emergencias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\servicios\\emergencias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\agendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\agendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\agendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\agendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\hospital.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\hospital.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\detalle.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\detalle.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\editpaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\editpaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\reagendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\reagendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\citas\\reagendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\citas\\reagendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\reagendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\reagendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\soporte.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\soporte.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\expedientes\\crear.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\expedientes\\crear.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\expedientes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\expedientes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\expedientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\expedientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\expedientes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\expedientes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\agendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\agendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\detalle.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\detalle.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\citas\\agendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\citas\\agendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\medicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\medicos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\citas\\agendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\citas\\agendar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\citas\\detalle.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\citas\\detalle.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\citas\\seleccionarpaciente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\citas\\seleccionarpaciente.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\citas\\seleccionarpaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\citas\\seleccionarpaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\citas\\reagendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\citas\\reagendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\citas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\citas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\medicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\medicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\soporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\soporte.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\editmedico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\editmedico.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\admin\\editmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\admin\\editmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\expedientes\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\expedientes\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\expedientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\expedientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\expedientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\expedientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\expediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\soportemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\soportemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\servicios\\emergencias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\servicios\\emergencias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\hospital.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\hospital.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\servicios\\hospitalizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -113,18 +233,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250330220404_AddDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,16 +259,32 @@
       "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\migrations\\20250330220936_adddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\migrations\\20250330220936_adddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250403202159_Actualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hospital\\Migrations\\20250403202159_Actualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\migrations\\20250331074725_cambiosmodelocitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\migrations\\20250331074725_cambiosmodelocitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\migrations\\20250403202159_actualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\migrations\\20250403202159_actualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250330220936_AddDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hospital\\Migrations\\20250330220936_AddDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\migrations\\20250417002814_cambioscita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\migrations\\20250417002814_cambioscita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\migrations\\20250416190527_modificacionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\migrations\\20250416190527_modificacionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\migrations\\20250416185156_cambiospaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\migrations\\20250416185156_cambiospaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|c:\\projects\\grupo3_prograavanzada\\hospital\\hospital\\migrations\\20250416184650_cambiosusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F95C9C-9641-4497-B944-8B077C4CE89B}|Hospital\\Hospital.csproj|solutionrelative:hospital\\migrations\\20250416184650_cambiosusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,266 +294,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Soporte.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Soporte.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Soporte.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Soporte.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Soporte.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Reagendar.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Reagendar.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Reagendar.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Reagendar.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Citas\\Reagendar.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T21:00:30.544Z",
+              "WhenOpened": "2025-04-01T07:03:35.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Register.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Register.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Register.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T20:55:52.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T21:50:58.062Z",
+              "Title": "Reagendar.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Reagendar.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Reagendar.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Reagendar.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Citas\\Reagendar.cshtml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:03:35.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Contacto.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Contacto.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Contacto.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Contacto.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Contacto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T05:45:30.535Z"
+              "DocumentIndex": 4,
+              "Title": "Reagendar.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Reagendar.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Citas\\Reagendar.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Reagendar.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Citas\\Reagendar.cshtml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwFcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:49:10.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "editPaciente.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\editPaciente.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\editPaciente.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\editPaciente.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\editPaciente.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T21:34:40.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "editPaciente.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\editPaciente.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\editPaciente.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\editPaciente.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\editPaciente.cshtml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwFcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:21:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agendar.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Agendar.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Citas\\Agendar.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Agendar.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Citas\\Agendar.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T21:34:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\HospitalDBContext.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\HospitalDBContext.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\HospitalDBContext.cs",
+              "RelativeToolTip": "Hospital\\Models\\HospitalDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:01:18.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Hospital\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Index.cshtml",
               "RelativeToolTip": "Hospital\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T23:18:01.391Z"
+              "WhenOpened": "2025-03-28T23:18:01.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:55:52.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:47:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Hospital\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Hospital\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAqwJ4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-28T21:49:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "Hospital\\Pages\\Login.cshtml",
               "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Login.cshtml",
               "RelativeToolTip": "Hospital\\Pages\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-03T20:34:05.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Profile\\Index.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Profile\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Profile\\Index.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Profile\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T20:34:47.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Hospital\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Hospital\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAFMBAAAAAAAAAAAAAPsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-28T21:49:09.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T20:25:19.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Emergencias.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Emergencias.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Emergencias.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Emergencias.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Emergencias.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T07:20:12.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Detalle.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Detalle.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Detalle.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Detalle.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Citas\\Detalle.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T22:24:27.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Login.cshtml.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Login.cshtml.cs",
-              "RelativeToolTip": "Hospital\\Pages\\Login.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T20:47:12.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Agendar.cshtml.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Agendar.cshtml.cs",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Agendar.cshtml.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Agendar.cshtml.cs",
-              "RelativeToolTip": "Hospital\\Pages\\Citas\\Agendar.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T22:11:09.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Agendar.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Agendar.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Agendar.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Agendar.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Citas\\Agendar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-30T22:11:08.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HospitalDBContext.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\HospitalDBContext.cs",
-              "RelativeDocumentMoniker": "Hospital\\Models\\HospitalDBContext.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\HospitalDBContext.cs",
-              "RelativeToolTip": "Hospital\\Models\\HospitalDBContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T20:01:18.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Detalle.cshtml.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Detalle.cshtml.cs",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Detalle.cshtml.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Detalle.cshtml.cs",
-              "RelativeToolTip": "Hospital\\Pages\\Citas\\Detalle.cshtml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAxwCoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T22:24:27.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "20250403202159_Actualizacion.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250403202159_Actualizacion.cs",
-              "RelativeDocumentMoniker": "Hospital\\Migrations\\20250403202159_Actualizacion.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250403202159_Actualizacion.cs",
-              "RelativeToolTip": "Hospital\\Migrations\\20250403202159_Actualizacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T20:21:59.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Hospital\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Usuario.cs",
-              "RelativeToolTip": "Hospital\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T20:25:24.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\appsettings.json",
               "RelativeDocumentMoniker": "Hospital\\appsettings.json",
               "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\appsettings.json",
               "RelativeToolTip": "Hospital\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T20:32:20.829Z"
+              "WhenOpened": "2025-03-29T20:32:20.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Reagendar.cshtml.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Reagendar.cshtml.cs",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Reagendar.cshtml.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Reagendar.cshtml.cs",
-              "RelativeToolTip": "Hospital\\Pages\\Citas\\Reagendar.cshtml.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAnwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T07:03:35.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Cita.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Cita.cs",
-              "RelativeDocumentMoniker": "Hospital\\Models\\Cita.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Cita.cs",
-              "RelativeToolTip": "Hospital\\Models\\Cita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T20:08:09.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Program.cs",
               "RelativeDocumentMoniker": "Hospital\\Program.cs",
@@ -437,107 +475,476 @@
               "RelativeToolTip": "Hospital\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T20:32:17.28Z"
+              "WhenOpened": "2025-03-29T20:32:17.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:18:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Crear.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Crear.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Expedientes\\Crear.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Crear.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Expedientes\\Crear.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:49:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Soporte.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Soporte.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Soporte.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Soporte.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Soporte.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:44:35.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Expedientes\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Edit.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Expedientes\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:50:36.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Hospital.csproj",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
-              "RelativeDocumentMoniker": "Hospital\\Hospital.csproj",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
-              "RelativeToolTip": "Hospital\\Hospital.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-29T19:59:41.884Z"
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Expedientes\\Index.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Index.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Expedientes\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:09:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Expedientes\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Delete.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Expedientes\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:11:03.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Agendar.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Agendar.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Agendar.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Agendar.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Citas\\Agendar.cshtml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwDcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:11:09.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Reagendar.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Reagendar.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Reagendar.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Reagendar.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Citas\\Reagendar.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-01T07:03:35.793Z"
+              "Title": "Detalle.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Detalle.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Detalle.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Detalle.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Citas\\Detalle.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:24:27.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "20250331074725_CambiosModeloCitas.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs",
-              "RelativeDocumentMoniker": "Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs",
-              "RelativeToolTip": "Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T07:47:26.08Z"
+              "DocumentIndex": 22,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Detalle.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Detalle.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Citas\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T22:24:27.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Hospitalizacion.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Hospitalizacion.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Hospitalizacion.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Hospitalizacion.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Hospitalizacion.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Title": "Agendar.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Agendar.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Citas\\Agendar.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Citas\\Agendar.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Citas\\Agendar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T07:18:17.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Laboratorio.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Laboratorio.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Laboratorio.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Laboratorio.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Laboratorio.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T07:19:29.84Z"
+              "WhenOpened": "2025-03-30T22:11:08.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Odontologia.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Odontologia.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Odontologia.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Odontologia.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Odontologia.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T07:24:03.906Z"
+              "Title": "Medicos.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Medicos.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Medicos.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Medicos.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Medicos.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:14:21.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Farmacia.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Farmacia.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Farmacia.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Farmacia.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Farmacia.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T07:20:41.748Z"
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Index.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Index.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:14:04.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Agendar.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Agendar.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Citas\\Agendar.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Agendar.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Citas\\Agendar.cshtml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwDkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:34:28.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Hospital\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Hospital\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T06:52:58.657Z"
+              "Title": "Detalle.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Detalle.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Citas\\Detalle.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Detalle.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Citas\\Detalle.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:58:59.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "SeleccionarPaciente.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\SeleccionarPaciente.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Citas\\SeleccionarPaciente.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\SeleccionarPaciente.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Citas\\SeleccionarPaciente.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:38:56.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SeleccionarPaciente.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\SeleccionarPaciente.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Citas\\SeleccionarPaciente.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\SeleccionarPaciente.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Citas\\SeleccionarPaciente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T21:37:55.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Reagendar.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Reagendar.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Citas\\Reagendar.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Reagendar.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Citas\\Reagendar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T21:49:09.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Citas\\Detalle.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Citas\\Detalle.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Citas\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T21:37:53.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Medicos.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Medicos.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Medicos.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Medicos.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Medicos.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T21:13:19.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Soporte.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Soporte.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Soporte.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Soporte.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Soporte.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T21:00:30.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwF8AAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T21:50:58.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:25:19.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "editMedico.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\editMedico.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\editMedico.cshtml.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\editMedico.cshtml.cs",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\editMedico.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:00:09.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "editMedico.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\editMedico.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Admin\\editMedico.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Admin\\editMedico.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Admin\\editMedico.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T01:58:44.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Expedientes\\Crear.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Crear.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Expedientes\\Crear.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T22:08:29.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Cita.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\Cita.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Cita.cs",
+              "RelativeToolTip": "Hospital\\Models\\Cita.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:08:09.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Paciente.cs",
+              "RelativeToolTip": "Hospital\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:56:37.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\Medico.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Medico.cs",
+              "RelativeToolTip": "Hospital\\Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:02:05.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250417002814_CambiosCita.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250417002814_CambiosCita.cs",
+              "RelativeDocumentMoniker": "Hospital\\Migrations\\20250417002814_CambiosCita.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250417002814_CambiosCita.cs",
+              "RelativeToolTip": "Hospital\\Migrations\\20250417002814_CambiosCita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:28:14.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Usuario.cs",
+              "RelativeToolTip": "Hospital\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:25:24.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Expedientes\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Delete.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Expedientes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T18:50:01.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Expedientes\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Expedientes\\Index.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Expedientes\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T18:51:24.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250416190527_ModificacionUsuarios.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250416190527_ModificacionUsuarios.cs",
+              "RelativeDocumentMoniker": "Hospital\\Migrations\\20250416190527_ModificacionUsuarios.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250416190527_ModificacionUsuarios.cs",
+              "RelativeToolTip": "Hospital\\Migrations\\20250416190527_ModificacionUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:05:27.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250416185156_CambiosPaciente.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250416185156_CambiosPaciente.cs",
+              "RelativeDocumentMoniker": "Hospital\\Migrations\\20250416185156_CambiosPaciente.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250416185156_CambiosPaciente.cs",
+              "RelativeToolTip": "Hospital\\Migrations\\20250416185156_CambiosPaciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:51:57.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250416184650_CambiosUsuarios.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250416184650_CambiosUsuarios.cs",
+              "RelativeDocumentMoniker": "Hospital\\Migrations\\20250416184650_CambiosUsuarios.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250416184650_CambiosUsuarios.cs",
+              "RelativeToolTip": "Hospital\\Migrations\\20250416184650_CambiosUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:46:50.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Expediente.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Expediente.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\Expediente.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Expediente.cs",
+              "RelativeToolTip": "Hospital\\Models\\Expediente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:38:19.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SoporteModel.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\SoporteModel.cs",
+              "RelativeDocumentMoniker": "Hospital\\Models\\SoporteModel.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\SoporteModel.cs",
+              "RelativeToolTip": "Hospital\\Models\\SoporteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:27:33.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "Especialidad.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Especialidad.cs",
               "RelativeDocumentMoniker": "Hospital\\Models\\Especialidad.cs",
@@ -549,31 +956,151 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 47,
               "Title": "Estado.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Estado.cs",
               "RelativeDocumentMoniker": "Hospital\\Models\\Estado.cs",
               "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Estado.cs",
               "RelativeToolTip": "Hospital\\Models\\Estado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T20:11:36.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Medico.cs",
-              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Medico.cs",
-              "RelativeDocumentMoniker": "Hospital\\Models\\Medico.cs",
-              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Models\\Medico.cs",
-              "RelativeToolTip": "Hospital\\Models\\Medico.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T20:02:05.639Z"
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Profile\\Index.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:34:47.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 51,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Contacto.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Contacto.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Contacto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T05:45:30.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Emergencias.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Emergencias.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Emergencias.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Emergencias.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Emergencias.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T07:20:12.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250403202159_Actualizacion.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250403202159_Actualizacion.cs",
+              "RelativeDocumentMoniker": "Hospital\\Migrations\\20250403202159_Actualizacion.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250403202159_Actualizacion.cs",
+              "RelativeToolTip": "Hospital\\Migrations\\20250403202159_Actualizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:21:59.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Hospital.csproj",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
+              "RelativeDocumentMoniker": "Hospital\\Hospital.csproj",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
+              "RelativeToolTip": "Hospital\\Hospital.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T19:59:41.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250331074725_CambiosModeloCitas.cs",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs",
+              "RelativeDocumentMoniker": "Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs",
+              "RelativeToolTip": "Hospital\\Migrations\\20250331074725_CambiosModeloCitas.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:47:26.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Hospitalizacion.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Hospitalizacion.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Hospitalizacion.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Hospitalizacion.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Hospitalizacion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T07:18:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Laboratorio.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Laboratorio.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Laboratorio.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Laboratorio.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Laboratorio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T07:19:29.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Odontologia.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Odontologia.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Odontologia.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Odontologia.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Odontologia.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T07:24:03.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Farmacia.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Farmacia.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Servicios\\Farmacia.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Servicios\\Farmacia.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Servicios\\Farmacia.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T07:20:41.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Hospital\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Hospital\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T06:52:58.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
               "Title": "20250330220404_AddDatabase.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250330220404_AddDatabase.cs",
               "RelativeDocumentMoniker": "Hospital\\Migrations\\20250330220404_AddDatabase.cs",
@@ -585,7 +1112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 59,
               "Title": "20250330215747_AddDatabase.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250330215747_AddDatabase.cs",
               "RelativeDocumentMoniker": "Hospital\\Migrations\\20250330215747_AddDatabase.cs",
@@ -597,7 +1124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 66,
               "Title": "20250330220936_AddDatabase.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250330220936_AddDatabase.cs",
               "RelativeDocumentMoniker": "Hospital\\Migrations\\20250330220936_AddDatabase.cs",
@@ -609,7 +1136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 60,
               "Title": "20250330215509_AddDatabase.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250330215509_AddDatabase.cs",
               "RelativeDocumentMoniker": "Hospital\\Migrations\\20250330215509_AddDatabase.cs",
@@ -621,7 +1148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 61,
               "Title": "20250329205228_BDHospital.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250329205228_BDHospital.cs",
               "RelativeDocumentMoniker": "Hospital\\Migrations\\20250329205228_BDHospital.cs",
@@ -633,7 +1160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 62,
               "Title": "20250329204648_BDHospital.cs",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Migrations\\20250329204648_BDHospital.cs",
               "RelativeDocumentMoniker": "Hospital\\Migrations\\20250329204648_BDHospital.cs",
@@ -645,7 +1172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 63,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Hospital\\Pages\\_ViewStart.cshtml",

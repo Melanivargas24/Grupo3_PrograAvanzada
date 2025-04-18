@@ -8632,24 +8632,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/sthvnbb/.nuget/packages/": {}
+    "C:\\Users\\Melani\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Hospital.csproj",
+      "projectUniqueName": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
       "projectName": "Hospital",
-      "projectPath": "/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/Hospital.csproj",
-      "packagesPath": "/Users/sthvnbb/.nuget/packages/",
-      "outputPath": "/Users/sthvnbb/Documents/Fidelitas/2025/Programación Avanzada/Proyecto Final/Grupo3_PrograAvanzada/Hospital/Hospital/obj/",
+      "projectPath": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\Hospital.csproj",
+      "packagesPath": "C:\\Users\\Melani\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Grupo3_PrograAvanzada\\Hospital\\Hospital\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/sthvnbb/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Melani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8720,7 +8727,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

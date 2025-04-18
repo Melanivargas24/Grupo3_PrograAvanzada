@@ -28,15 +28,27 @@ namespace Hospital.Pages.Citas
                 Cita = new List<Cita>();
                 return;
             }
+            int idUsuario = int.Parse(userIdClaim);
 
-            int idPaciente = int.Parse(userIdClaim);
+            var paciente = await _context.Pacientes
+                .FirstOrDefaultAsync(p => p.IdUsuario == idUsuario);
+
+            if (paciente == null)
+            {
+                Cita = new List<Cita>();
+                return;
+            }
 
             Cita = await _context.Citas
-                .Include(c => c.Especialidad)
-                .Include(c => c.Estado)
-                .Include(c => c.Medico)
-                .Where(c => c.IdPaciente == idPaciente)
-                .ToListAsync();
+             .Include(c => c.Paciente)
+                 .ThenInclude(p => p.Usuario)
+             .Include(c => c.Especialidad)
+             .Include(c => c.Estado)
+             .Include(c => c.Medico)
+                .ThenInclude(m => m.Usuario)
+             .Where(c => c.IdPaciente == paciente.Id)
+             .ToListAsync();
+
         }
 
         public async Task<IActionResult> OnPostAsync(int idCita)

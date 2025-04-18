@@ -25,7 +25,7 @@ namespace Hospital.Pages.Expedientes
             .Select(p => new PacienteSelectItem
             {
                 Id = p.Id,
-                NombreCompleto = p.Nombre + " " + p.Apellido
+                NombreCompleto = p.Usuario.Nombre + " " + p.Usuario.Apellido
             })
             .ToList();
 
@@ -52,7 +52,7 @@ namespace Hospital.Pages.Expedientes
                 .Select(p => new PacienteSelectItem
                 {
                     Id = p.Id,
-                    NombreCompleto = p.Nombre + " " + p.Apellido
+                    NombreCompleto = p.Usuario.Nombre + " " + p.Usuario.Apellido
                 })
                 .ToList();
 

@@ -61,14 +61,30 @@ namespace Hospital.Models
                 .HasForeignKey(m => m.IdEspecialidad)
                 .OnDelete(DeleteBehavior.Restrict);
 
+            modelBuilder.Entity<Medico>()
+                .HasOne(m => m.Usuario)
+                .WithOne(u => u.Medico)
+                .HasForeignKey<Medico>(m => m.IdUsuario)
+                .OnDelete(DeleteBehavior.Restrict);
+
+     
+            modelBuilder.Entity<Paciente>()
+                .HasOne(p => p.Usuario)
+                .WithOne(u => u.Paciente)
+                .HasForeignKey<Paciente>(p => p.IdUsuario)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Paciente>()
+                .HasMany(p => p.Citas)
+                .WithOne(c => c.Paciente)
+                .HasForeignKey(c => c.IdPaciente)
+                .OnDelete(DeleteBehavior.Restrict);
+
+
 
             modelBuilder.Entity<Usuario>(entity =>
             {
                 entity.HasKey(e => e.Id).HasName("PK__Usuarios__3214EC0778EF21D7");
-
-                entity.HasIndex(e => e.Nombre, "UQ__Usuarios__72AFBCC6A9D12EAB").IsUnique();
-
-                entity.HasIndex(e => e.Apellido, "UQ__Usuarios__95E042A6D83CF3F2").IsUnique();
 
                 entity.HasIndex(e => e.Email, "UQ__Usuarios__A9D1053410360562").IsUnique();
 

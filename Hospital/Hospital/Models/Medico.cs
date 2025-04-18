@@ -7,13 +7,14 @@ namespace Hospital.Models
         [Key]
         public int IdMedico { get; set; }
 
+        public int IdUsuario { get; set; }
+
         public int IdEspecialidad { get; set; }
 
-        public int IdDireccion { get; set; }
-
-        public string Telefono { get; set; } = null!;
-
         public Especialidad Especialidad { get; set; } = null!;
+
+        public Usuario Usuario { get; set; } = null!;
+
 
         public ICollection<Cita> Citas { get; } = new List<Cita>();
     }

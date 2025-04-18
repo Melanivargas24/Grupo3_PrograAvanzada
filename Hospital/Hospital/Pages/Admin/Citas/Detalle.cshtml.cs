@@ -23,9 +23,15 @@ namespace Hospital.Pages.Admin.Citas
         public async Task OnGetAsync()
         {
             Cita = await _context.Citas
+                .Include(c => c.Paciente)
+                .ThenInclude(p => p.Usuario)
                 .Include(c => c.Especialidad)
                 .Include(c => c.Estado)
-                .Include(c => c.Medico).ToListAsync();
+                .Include(c => c.Medico)
+                .ThenInclude(m => m.Usuario)
+                .ToListAsync();
+
+        
         }
 
 
@@ -42,7 +48,7 @@ namespace Hospital.Pages.Admin.Citas
 
             await _context.SaveChangesAsync();
 
-            return RedirectToPage("/Citas/Detalle");
+            return RedirectToPage("/Admin/Citas/Detalle");
         }
 
     }

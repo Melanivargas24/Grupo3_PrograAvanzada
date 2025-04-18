@@ -28,10 +28,46 @@ namespace Hospital.Pages
                 return Page();
             }
 
-            _context.Usuarios.Add(NewUser);
-            _context.SaveChanges();
+            if (NewUser.Email.EndsWith("@ccss.sa.cr", StringComparison.OrdinalIgnoreCase))
+            {
+                NewUser.Role = "Administrador";
+            }
+            else
+            {
+                NewUser.Role = "Empleado";
+            }
 
-            return RedirectToPage("/Login");
+           
+
+                _context.Usuarios.Add(NewUser);
+                _context.SaveChanges();
+
+                if (NewUser.Role == "Administrador")
+                {
+                    var medico = new Medico
+                    {
+                        IdUsuario = NewUser.Id,
+                        IdEspecialidad = 1
+                    };
+
+                    _context.Medicos.Add(medico);
+                }
+                else
+                {
+                    var paciente = new Paciente
+                    {
+                        IdUsuario = NewUser.Id
+                    };
+
+                    _context.Pacientes.Add(paciente);
+                }
+
+                _context.SaveChanges();
+
+                return RedirectToPage("/Login");
+            
+
+         
+            }
         }
     }
-}

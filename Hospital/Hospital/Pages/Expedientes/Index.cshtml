@@ -58,7 +58,7 @@
             @foreach (var expediente in Model.Expedientes)
             {
                 <tr>
-                    <td>@expediente.Paciente.Nombre @expediente.Paciente.Apellido</td>
+                    <td>@expediente.Paciente.Usuario.Nombre @expediente.Paciente.Usuario.Apellido</td>
                     <td>@expediente.Diagnostico</td>
                     <td>@expediente.Tratamientos</td>
                     <td>@expediente.Medicamentos</td>

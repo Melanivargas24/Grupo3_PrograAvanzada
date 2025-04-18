@@ -12,13 +12,10 @@
             <form method="post">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <input type="hidden" asp-for="Cita.IdCita" />
+                <input type="hidden" asp-for="Cita.IdPaciente" />
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="mb-3">
-                            <label asp-for="Cita.IdPaciente" class="form-label">ID Paciente</label>
-                            <input asp-for="Cita.IdPaciente" class="form-control" />
-                            <span asp-validation-for="Cita.IdPaciente" class="text-danger"></span>
-                        </div>
+                       
                         <div class="mb-3">
                             <label class="form-label">Seleccione el área de su cita</label>
                             <select class="form-select" asp-for="Cita.IdEspecialidad" asp-items="ViewBag.IdEspecialidad">
@@ -42,7 +39,7 @@
                         <div class="mb-3">
                             <label class="form-label">Seleccione la fecha de su cita</label>
                             <input type="date" class="form-control text-center" asp-for="Cita.Fecha">
-                            <span asp-validation-for="Cita.Fecha" class="text-danger"></span>
+                            <span class="text-danger" asp-validation-for="Cita.Fecha"></span>
                         </div>
                         <div class="mb-3">
                             <label class="form-label">Seleccione la hora de su cita</label>

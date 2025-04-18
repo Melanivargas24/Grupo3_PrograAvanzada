@@ -19,8 +19,10 @@ namespace Hospital.Pages.Expedientes
         public async Task OnGetAsync()
         {
             Expedientes = await _context.Expedientes
-                .Include(e => e.Paciente)
-                .ToListAsync();
+             .Include(e => e.Paciente)
+             .ThenInclude(p => p.Usuario)
+              .ToListAsync();
+
         }
     }
 }

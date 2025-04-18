@@ -7,6 +7,9 @@
 <div class="container-index">
     <h2 style="color:black">Agende su cita en línea</h2>
     <p>De manera rápida y fácil</p>
-    <a class="button" asp-page="@(User.Identity.IsAuthenticated ? "/Citas/Agendar" : "/Login")">Haga click aquí</a>
+    <a class="button" asp-page="@(User.IsInRole("Administrador") ? "/Admin/Citas/Agendar" : (User.Identity.IsAuthenticated ? "/Citas/Agendar" : "/Login"))">
+        Haga click aquí
+    </a>
+
 </div>
 

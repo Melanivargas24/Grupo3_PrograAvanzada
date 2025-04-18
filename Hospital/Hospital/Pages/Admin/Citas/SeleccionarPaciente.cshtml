@@ -4,7 +4,9 @@
     ViewData["Title"] = "Seleccionar Usuario";
 }
 
-<h2>Seleccionar Usuario</h2>
+<div class="container-cita mt-5">
+
+<h2>Seleccionar Paciente</h2>
 
 <form method="get">
     <div class="input-group mb-3">
@@ -24,17 +26,18 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var usuario in Model.Usuarios)
+            @foreach (var paciente in Model.Pacientes)
             {
                 <tr>
-                    <td>@usuario.Nombre</td>
-                    <td>@usuario.Apellido</td>
-                    <td>@usuario.Email</td>
+                    <td>@paciente.Usuario.Nombre</td>
+                    <td>@paciente.Usuario.Apellido</td>
+                    <td>@paciente.Usuario.Email</td>
                     <td>
-                        <button type="submit" name="pacienteId" value="@usuario.Id" class="btn btn-success">Seleccionar</button>
+                        <button type="submit" name="pacienteId" value="@paciente.Id" class="btn btn-success">Seleccionar</button>
                     </td>
                 </tr>
             }
         </tbody>
     </table>
 </form>
+</div>

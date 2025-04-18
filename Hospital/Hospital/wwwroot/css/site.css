@@ -377,5 +377,41 @@ table thead th {
             background-color: black;
         }
 
+.auth-login-box {
+    background: white;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.auth-login-label {
+    font-weight: 500;
+}
+
+.auth-login-footer a {
+    text-decoration: underline;
+}
+
+
+.auth-register-box {
+    background: white;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: 50px auto;
+}
+
+.auth-register-label {
+    font-weight: 500;
+}
+
+.auth-register-footer a {
+    text-decoration: underline;
+}
+
+
 
 

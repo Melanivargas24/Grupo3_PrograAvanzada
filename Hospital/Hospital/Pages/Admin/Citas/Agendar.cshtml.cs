@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Hospital.Models;
 using System.Security.Claims;
+using Microsoft.EntityFrameworkCore;
 
 namespace Hospital.Pages.Admin.Citas
 {
@@ -21,11 +22,20 @@ namespace Hospital.Pages.Admin.Citas
 
         public IActionResult OnGet(int? pacienteId)
         {
+
             ViewData["IdEspecialidad"] = new SelectList(_context.Especialidades, "IdEspecialidad", "Nombre");
             ViewData["IdEstado"] = new SelectList(_context.Estados, "IdEstado", "Nombre");
-            ViewData["IdMedico"] = new SelectList(_context.Medicos, "IdMedico", "IdMedico");
 
-            // Asegúrate de inicializar Cita
+            var medicos = _context.Medicos
+             .Include(m => m.Usuario)
+                .Select(m => new
+                {
+                  IdMedico = m.IdMedico,
+                  NombreCompleto = (m.Usuario.Nombre ?? "Sin nombre") + " " + (m.Usuario.Apellido ?? "Sin apellido")
+                     }).ToList();
+
+            ViewData["IdMedico"] = new SelectList(medicos, "IdMedico", "NombreCompleto");
+
             Cita = new Cita();
 
             if (pacienteId.HasValue)
@@ -44,6 +54,39 @@ namespace Hospital.Pages.Admin.Citas
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
+
+            ViewData["IdEspecialidad"] = new SelectList(_context.Especialidades, "IdEspecialidad", "Nombre");
+            ViewData["IdEstado"] = new SelectList(_context.Estados, "IdEstado", "Nombre");
+
+            var medicos = _context.Medicos
+             .Include(m => m.Usuario)
+                .Select(m => new
+                {
+                    IdMedico = m.IdMedico,
+                    NombreCompleto = (m.Usuario.Nombre ?? "Sin nombre") + " " + (m.Usuario.Apellido ?? "Sin apellido")
+                }).ToList();
+
+            ViewData["IdMedico"] = new SelectList(medicos, "IdMedico", "NombreCompleto", Cita.IdMedico);
+
+            if (Cita.Fecha < DateTime.Today)
+            {
+                ModelState.AddModelError("Cita.Fecha", "Elija un día hábil");
+                return Page();
+            }
+
+            if (Cita.Fecha.DayOfWeek == DayOfWeek.Saturday || Cita.Fecha.DayOfWeek == DayOfWeek.Sunday)
+            {
+                ModelState.AddModelError("Cita.Fecha", "Elija un día hábil (Entre Lunes y Viernes)");
+                return Page();
+            }
+
+            if (Cita.Hora < new TimeSpan(8, 0, 0) || Cita.Hora > new TimeSpan(16, 0, 0))
+            {
+                ModelState.AddModelError("Cita.Hora", "La hora debe estar en un rango de 8:00 a.m. y 4:00 p.m.");
+                return Page();
+            }
+
+
             if (ModelState.IsValid)
             {
 
@@ -55,7 +98,7 @@ namespace Hospital.Pages.Admin.Citas
 
             TempData["CitaAgendada"] = true;
 
-            return RedirectToPage("/Citas/Agendar");
+            return RedirectToPage("/Admin/Citas/Agendar");
         }
     }
 }

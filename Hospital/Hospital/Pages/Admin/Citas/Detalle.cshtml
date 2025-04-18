@@ -12,11 +12,12 @@
     <table class="table">
         <thead>
             <tr>
-                <th>@Html.DisplayNameFor(model => model.Cita[0].IdPaciente)</th>
+                <th>@Html.DisplayNameFor(model => model.Cita[0].Paciente.Usuario.Nombre)</th>
+                <th>@Html.DisplayNameFor(model => model.Cita[0].Paciente.Usuario.Apellido)</th>
                 <th>@Html.DisplayNameFor(model => model.Cita[0].Fecha)</th>
                 <th>@Html.DisplayNameFor(model => model.Cita[0].Hora)</th>
                 <th>@Html.DisplayNameFor(model => model.Cita[0].Especialidad)</th>
-                <th>@Html.DisplayNameFor(model => model.Cita[0].Medico)</th>
+                <th>Médico</th>
                 <th>@Html.DisplayNameFor(model => model.Cita[0].Estado)</th>
                 <th>Acciones</th>
             </tr>
@@ -25,14 +26,15 @@
             @foreach (var item in Model.Cita)
             {
                 <tr>
-                    <td>@Html.DisplayFor(modelItem => item.IdPaciente)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Paciente.Usuario.Nombre)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Paciente.Usuario.Apellido)</td>
                     <td>@Html.DisplayFor(modelItem => item.Fecha)</td>
                     <td>@Html.DisplayFor(modelItem => item.Hora)</td>
                     <td>@Html.DisplayFor(modelItem => item.Especialidad.Nombre)</td>
-                    <td>@Html.DisplayFor(modelItem => item.Medico.IdMedico)</td>
+                    <td>@($"{item.Medico.Usuario.Nombre} {item.Medico.Usuario.Apellido}")</td>
                     <td>@Html.DisplayFor(modelItem => item.Estado.Nombre)</td>
                     <td class="d-flex justify-content-center">
-                        <a asp-page="/Citas/Reagendar" asp-route-id="@item.IdCita" class="btn btn-cita btn-sm me-2">Reagendar</a>
+                        <a asp-page="/Admin/Citas/Reagendar" asp-route-id="@item.IdCita" class="btn btn-cita btn-sm me-2">Reagendar</a>
                         @if (item.Estado.IdEstado != 2)
                         {
                             <form method="POST" asp-page-handler="Cancelar">

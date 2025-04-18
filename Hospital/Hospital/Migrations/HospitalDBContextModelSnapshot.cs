@@ -56,6 +56,8 @@ namespace Hospital.Migrations
 
                     b.HasIndex("IdMedico");
 
+                    b.HasIndex("IdPaciente");
+
                     b.ToTable("Citas");
                 });
 
@@ -140,19 +142,18 @@ namespace Hospital.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdMedico"));
 
-                    b.Property<int>("IdDireccion")
-                        .HasColumnType("int");
-
                     b.Property<int>("IdEspecialidad")
                         .HasColumnType("int");
 
-                    b.Property<string>("Telefono")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("IdUsuario")
+                        .HasColumnType("int");
 
                     b.HasKey("IdMedico");
 
                     b.HasIndex("IdEspecialidad");
+
+                    b.HasIndex("IdUsuario")
+                        .IsUnique();
 
                     b.ToTable("Medicos");
                 });
@@ -165,25 +166,13 @@ namespace Hospital.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Apellido")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("Direccion")
-                        .HasMaxLength(200)
-                        .HasColumnType("nvarchar(200)");
-
-                    b.Property<string>("Nombre")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("Telefono")
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
+                    b.Property<int>("IdUsuario")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("IdUsuario")
+                        .IsUnique();
 
                     b.ToTable("Pacientes");
                 });
@@ -207,6 +196,10 @@ namespace Hospital.Migrations
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
 
+                    b.Property<string>("Direccion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasMaxLength(100)
@@ -223,14 +216,12 @@ namespace Hospital.Migrations
                         .HasMaxLength(20)
                         .HasColumnType("nvarchar(20)");
 
+                    b.Property<string>("Telefono")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id")
                         .HasName("PK__Usuarios__3214EC0778EF21D7");
-
-                    b.HasIndex(new[] { "Nombre" }, "UQ__Usuarios__72AFBCC6A9D12EAB")
-                        .IsUnique();
-
-                    b.HasIndex(new[] { "Apellido" }, "UQ__Usuarios__95E042A6D83CF3F2")
-                        .IsUnique();
 
                     b.HasIndex(new[] { "Email" }, "UQ__Usuarios__A9D1053410360562")
                         .IsUnique();
@@ -258,11 +249,19 @@ namespace Hospital.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
+                    b.HasOne("Hospital.Models.Paciente", "Paciente")
+                        .WithMany("Citas")
+                        .HasForeignKey("IdPaciente")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
                     b.Navigation("Especialidad");
 
                     b.Navigation("Estado");
 
                     b.Navigation("Medico");
+
+                    b.Navigation("Paciente");
                 });
 
             modelBuilder.Entity("Hospital.Models.Expediente", b =>
@@ -284,7 +283,26 @@ namespace Hospital.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
+                    b.HasOne("Hospital.Models.Usuario", "Usuario")
+                        .WithOne("Medico")
+                        .HasForeignKey("Hospital.Models.Medico", "IdUsuario")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
                     b.Navigation("Especialidad");
+
+                    b.Navigation("Usuario");
+                });
+
+            modelBuilder.Entity("Hospital.Models.Paciente", b =>
+                {
+                    b.HasOne("Hospital.Models.Usuario", "Usuario")
+                        .WithOne("Paciente")
+                        .HasForeignKey("Hospital.Models.Paciente", "IdUsuario")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Usuario");
                 });
 
             modelBuilder.Entity("Hospital.Models.Especialidad", b =>
@@ -306,7 +324,16 @@ namespace Hospital.Migrations
 
             modelBuilder.Entity("Hospital.Models.Paciente", b =>
                 {
+                    b.Navigation("Citas");
+
                     b.Navigation("Expedientes");
+                });
+
+            modelBuilder.Entity("Hospital.Models.Usuario", b =>
+                {
+                    b.Navigation("Medico");
+
+                    b.Navigation("Paciente");
                 });
 #pragma warning restore 612, 618
         }

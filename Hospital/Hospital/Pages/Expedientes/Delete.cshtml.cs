@@ -25,8 +25,10 @@ namespace Hospital.Pages.Expedientes
             }
 
             Expediente = await _context.Expedientes
-                .Include(e => e.Paciente)
-                .FirstOrDefaultAsync(m => m.Id == id);
+             .Include(e => e.Paciente)
+            .ThenInclude(p => p.Usuario) 
+             .FirstOrDefaultAsync(m => m.Id == id);
+
 
             if (Expediente == null)
             {

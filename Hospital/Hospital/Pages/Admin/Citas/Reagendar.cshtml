@@ -1,52 +1,54 @@
 ﻿@page
-@model Hospital.Pages.Admin.Citas.ReagendarModel
+@model Hospital.Pages.Admin.Citas.EditarModel
 
 @{
     ViewData["Title"] = "Reagendar";
 }
 <div class="container-cita mt-5">
-    <h1>Reagendar</h1>
+    <h1>Reagendar cita</h1>
     <hr />
     <div class="row justify-content-center">
         <div class="col-md-10">
             <form method="post">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
                 <input type="hidden" asp-for="Cita.IdCita" />
+                <input type="hidden" asp-for="Cita.IdPaciente" />
+
                 <div class="row">
                     <div class="col-md-6">
+
                         <div class="mb-3">
-                            <label asp-for="Cita.IdPaciente" class="form-label">ID Paciente</label>
-                            <input asp-for="Cita.IdPaciente" class="form-control" />
-                            <span asp-validation-for="Cita.IdPaciente" class="text-danger"></span>
-                        </div>
-                        <div class="mb-3">
-                            <label class="form-label">Seleccione el área de su cita</label>
-                            <select class="form-select" asp-for="Cita.IdEspecialidad" asp-items="ViewBag.IdEspecialidad">
-                                <option value="">...</option>
+                            <label class="form-label">Área médica</label>
+                            <select class="form-select" asp-for="Cita.IdEspecialidad" asp-items="@(ViewData["IdEspecialidad"] as SelectList)">
+                                <option value="">Seleccione una opción</option>
                             </select>
                             <span asp-validation-for="Cita.IdEspecialidad" class="text-danger"></span>
                         </div>
 
                         <div class="mb-3">
-                            <label class="form-label">Seleccione su médico de preferencia</label>
-                            <select class="form-select" asp-for="Cita.IdMedico" asp-items="ViewBag.IdMedico">
-                                <option value="">...</option>
+                            <label class="form-label">Médico</label>
+                            <select class="form-select" asp-for="Cita.IdMedico" asp-items="@(ViewData["IdMedico"] as SelectList)">
+                                <option value="">Seleccione una opción</option>
                             </select>
                             <span asp-validation-for="Cita.IdMedico" class="text-danger"></span>
                         </div>
+
                         <button type="submit" class="btn btn-primary w-100 btn-custom mb-3">
-                            Confirmar
+                            Guardar cambios
                         </button>
                     </div>
+
                     <div class="col-md-6">
                         <div class="mb-3">
                             <label class="form-label">Seleccione la fecha de su cita</label>
                             <input type="date" class="form-control text-center" asp-for="Cita.Fecha">
-                            <span asp-validation-for="Cita.Fecha" class="text-danger"></span>
+                            <span class="text-danger" asp-validation-for="Cita.Fecha"></span>
                         </div>
+
                         <div class="mb-3">
-                            <label class="form-label">Seleccione la hora de su cita</label>
-                            <input type="time" class="form-control text-center" asp-for="Cita.Hora">
+                            <label class="form-label">Hora de la cita</label>
+                            <input type="time" class="form-control text-center" asp-for="Cita.Hora" />
                             <span asp-validation-for="Cita.Hora" class="text-danger"></span>
                         </div>
                     </div>
@@ -56,8 +58,8 @@
     </div>
 </div>
 
-
-
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

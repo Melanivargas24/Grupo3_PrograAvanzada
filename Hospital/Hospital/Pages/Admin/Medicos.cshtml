@@ -1,0 +1,42 @@
+﻿@page
+@model Hospital.Pages.Admin.MedicosModel
+@{
+}
+
+<div class="container-cita mt-5">
+    <h2 class="text-center">Administración de Médicos</h2>
+    <hr />
+
+    <table class="table table-bordered mt-4">
+        <thead class="table-dark">
+            <tr>
+                <th>IdMedico</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Telefono</th>
+                <th>Dirección</th>
+                <th>Email</th>
+                <th>Especialidad</th>
+                <th>Editar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var medico in Model.Medicos)
+            {
+                <tr>
+                    <td>@medico.IdMedico</td>
+                    <td>@medico.Usuario.Nombre</td>
+                    <td>@medico.Usuario.Apellido</td>
+                    <td>@medico.Usuario.Telefono</td>
+                    <td>@medico.Usuario.Direccion</td>
+                    <td>@medico.Usuario.Email</td>
+                    <td>@medico.Especialidad.Nombre</td>
+                    <td>
+                        <a asp-page="/Admin/editMedico" asp-route-id="@medico.IdMedico" class="btn btn-cita btn-sm me-2">Editar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
