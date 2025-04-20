@@ -42,13 +42,13 @@
                 <label class="auth-register-label">Contraseña</label>
                 <input type="password" class="form-control" asp-for="NewUser.Clave" required>
             </div>
-
-            <div class="mb-3">
+            <div class="mb-3" style="display: none;">
                 <label class="auth-register-label">Rol</label>
                 <select class="form-select" asp-for="NewUser.Role">
-                    <option value="Empleado">Empleado</option>
+                    <option value="Paciente">Paciente</option>
                 </select>
             </div>
+
 
             <button type="submit" class="btn btn-success w-100">Registrarse</button>
         </form>

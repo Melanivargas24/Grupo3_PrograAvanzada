@@ -8,8 +8,8 @@ using System.Linq;
 
 namespace Hospital.Pages
 {
-    // Solo los usuarios con el rol "Administrador" pueden acceder a esta página
-    [Authorize(Roles = "Administrador")]
+    // Solo los usuarios con el rol "Medico" pueden acceder a esta página
+    [Authorize(Roles = "Medico")]
     public class AdminModel : PageModel
     {
         private readonly HospitalDBContext _context;

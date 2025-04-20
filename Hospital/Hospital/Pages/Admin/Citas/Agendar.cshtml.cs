@@ -46,6 +46,17 @@ namespace Hospital.Pages.Admin.Citas
             return Page();
         }
 
+        public JsonResult OnGetMedicosXEspecialidad(int idEspecialidad)
+        {
+            var medicos = _context.Medicos
+                .Where(m => m.IdEspecialidad == idEspecialidad)
+                .Select(m => new { m.IdMedico, Nombre = m.Usuario.Nombre + " " + m.Usuario.Apellido })
+                .ToList();
+
+            return new JsonResult(medicos);
+        }
+
+
 
 
         [BindProperty]

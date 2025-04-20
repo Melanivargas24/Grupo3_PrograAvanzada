@@ -62,7 +62,7 @@
                             </li>
                     }
 
-                    @if (!User.IsInRole("Administrador"))
+                    @if (!User.IsInRole("Medico"))
                     {    
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle text-white px-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -80,7 +80,7 @@
                     }
                         
 
-                        @if (User.IsInRole("Administrador"))
+                        @if (User.IsInRole("Medico"))
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-white px-3" asp-page="/Expedientes/Index">Expedientes</a>
@@ -97,7 +97,7 @@
                             </li>
                         }
 
-                        @if (!User.IsInRole("Administrador"))
+                        @if (!User.IsInRole("Medico"))
                     {
                         <li class="nav-item">
                             <a class="nav-link text-white px-3" asp-area="" asp-page="/Contacto">Contacto</a>

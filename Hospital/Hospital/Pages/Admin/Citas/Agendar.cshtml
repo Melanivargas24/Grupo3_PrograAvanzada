@@ -22,13 +22,13 @@
                         </div>
                         <div class="mb-3">
                             <label class="form-label">Seleccione el área de la cita</label>
-                            <select class="form-select" asp-for="Cita.IdEspecialidad" asp-items="ViewBag.IdEspecialidad">
+                            <select id="selectEspecialidad" class="form-select" asp-for="Cita.IdEspecialidad" asp-items="ViewBag.IdEspecialidad" id="select-especialidad">
                                 <option value="">...</option>
                             </select>
                         </div>
                         <div class="mb-3">
                             <label class="form-label">Médico</label>
-                            <select class="form-select" asp-for="Cita.IdMedico" asp-items="ViewBag.IdMedico">
+                            <select id="selectMedico" class="form-select" asp-for="Cita.IdMedico" asp-items="ViewBag.IdMedico">
                                 <option value="">...</option>
                             </select>
                         </div>
@@ -82,12 +82,29 @@
     }
 
     <script>
-            document.addEventListener("DOMContentLoaded", function () {
+        document.addEventListener("DOMContentLoaded", function () {
             var citaAgendada = "@TempData["CitaAgendada"]";
             if (citaAgendada.trim() === "True") {
                 var modal = new bootstrap.Modal(document.getElementById("modalCitaAgendada"));
                 modal.show();
             }
+
+            document.getElementById("selectEspecialidad").addEventListener("change", function () {
+                var idEspecialidad = this.value;
+
+                fetch(`/Admin/Citas/Agendar?handler=MedicosXEspecialidad&idEspecialidad=${idEspecialidad}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        var selectMedico = document.getElementById("selectMedico");
+                        selectMedico.innerHTML = '<option value="">...</option>'; 
+                        data.forEach(function (medico) {
+                            var option = document.createElement("option");
+                            option.value = medico.idMedico;
+                            option.text = medico.nombre;
+                            selectMedico.appendChild(option);
+                        });
+                    });
+            });
         });
     </script>
 }

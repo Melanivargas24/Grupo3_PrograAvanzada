@@ -30,11 +30,11 @@ namespace Hospital.Pages
 
             if (NewUser.Email.EndsWith("@ccss.sa.cr", StringComparison.OrdinalIgnoreCase))
             {
-                NewUser.Role = "Administrador";
+                NewUser.Role = "Medico";
             }
             else
             {
-                NewUser.Role = "Empleado";
+                NewUser.Role = "Paciente";
             }
 
            
@@ -42,7 +42,7 @@ namespace Hospital.Pages
                 _context.Usuarios.Add(NewUser);
                 _context.SaveChanges();
 
-                if (NewUser.Role == "Administrador")
+                if (NewUser.Role == "Medico")
                 {
                     var medico = new Medico
                     {
